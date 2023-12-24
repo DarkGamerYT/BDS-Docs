@@ -1,0 +1,25 @@
+name: BDS
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/15 * * * *"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  Get:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Fetch
+        run: chmod u+x ./fetch.sh
+      - name: Perform fetch
+        run: ./fetch.sh
+      - name: Try commit
+        uses: EndBug/add-and-commit@v9
+        with:
+          default_author: github_actions
+          message: "Updated docs"
