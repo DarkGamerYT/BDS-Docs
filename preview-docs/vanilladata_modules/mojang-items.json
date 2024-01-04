@@ -1477,6 +1477,12 @@
          "name" : "minecraft:hanging_roots"
       },
       {
+         "name" : "minecraft:hard_stained_glass"
+      },
+      {
+         "name" : "minecraft:hard_stained_glass_pane"
+      },
+      {
          "name" : "minecraft:hardened_clay"
       },
       {
@@ -2686,9 +2692,6 @@
          "name" : "minecraft:sculk_vein"
       },
       {
-         "name" : "minecraft:scute"
-      },
-      {
          "name" : "minecraft:sea_lantern"
       },
       {
@@ -3136,6 +3139,9 @@
          "name" : "minecraft:turtle_helmet"
       },
       {
+         "name" : "minecraft:turtle_scute"
+      },
+      {
          "name" : "minecraft:turtle_spawn_egg"
       },
       {
@@ -3523,7 +3529,7 @@
          "name" : "minecraft:zombie_villager_spawn_egg"
       }
    ],
-   "minecraft_version" : "1.20.60-beta.23",
+   "minecraft_version" : "1.20.60-beta.24",
    "module_type" : "vanilla_data",
    "name" : "mojang-item",
    "vanilla_data_type" : "item"
