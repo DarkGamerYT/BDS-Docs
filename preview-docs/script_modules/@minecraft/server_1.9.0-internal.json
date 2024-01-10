@@ -380,9 +380,7 @@
                   },
                   {
                      "details" : {
-                        "default_value" : false,
-                        "max_value" : true,
-                        "min_value" : false
+                        "default_value" : false
                      },
                      "name" : "withData",
                      "type" : {
@@ -787,10 +785,7 @@
             {
                "arguments" : [
                   {
-                     "details" : {
-                        "max_value" : true,
-                        "min_value" : false
-                     },
+                     "details" : null,
                      "name" : "isWaterlogged",
                      "type" : {
                         "is_bind_type" : false,
@@ -2467,10 +2462,7 @@
             {
                "arguments" : [
                   {
-                     "details" : {
-                        "max_value" : true,
-                        "min_value" : false
-                     },
+                     "details" : null,
                      "name" : "waxed",
                      "type" : {
                         "is_bind_type" : false,
@@ -4734,9 +4726,64 @@
                "name" : "clearDynamicProperties",
                "privilege" : "read_only",
                "return_type" : {
+                  "error_types" : [
+                     {
+                        "is_bind_type" : true,
+                        "is_errorable" : false,
+                        "name" : "InvalidContainerSlotError"
+                     }
+                  ],
                   "is_bind_type" : false,
                   "is_errorable" : true,
                   "name" : "undefined"
+               }
+            },
+            {
+               "arguments" : [],
+               "is_constructor" : false,
+               "is_static" : false,
+               "name" : "getCanDestroy",
+               "privilege" : "read_only",
+               "return_type" : {
+                  "element_type" : {
+                     "is_bind_type" : false,
+                     "is_errorable" : false,
+                     "name" : "string"
+                  },
+                  "error_types" : [
+                     {
+                        "is_bind_type" : true,
+                        "is_errorable" : false,
+                        "name" : "InvalidContainerSlotError"
+                     }
+                  ],
+                  "is_bind_type" : false,
+                  "is_errorable" : true,
+                  "name" : "array"
+               }
+            },
+            {
+               "arguments" : [],
+               "is_constructor" : false,
+               "is_static" : false,
+               "name" : "getCanPlaceOn",
+               "privilege" : "read_only",
+               "return_type" : {
+                  "element_type" : {
+                     "is_bind_type" : false,
+                     "is_errorable" : false,
+                     "name" : "string"
+                  },
+                  "error_types" : [
+                     {
+                        "is_bind_type" : true,
+                        "is_errorable" : false,
+                        "name" : "InvalidContainerSlotError"
+                     }
+                  ],
+                  "is_bind_type" : false,
+                  "is_errorable" : true,
+                  "name" : "array"
                }
             },
             {
@@ -4756,6 +4803,13 @@
                "name" : "getDynamicProperty",
                "privilege" : "read_only",
                "return_type" : {
+                  "error_types" : [
+                     {
+                        "is_bind_type" : true,
+                        "is_errorable" : false,
+                        "name" : "InvalidContainerSlotError"
+                     }
+                  ],
                   "is_bind_type" : false,
                   "is_errorable" : true,
                   "name" : "optional",
@@ -4813,6 +4867,13 @@
                      "is_errorable" : false,
                      "name" : "string"
                   },
+                  "error_types" : [
+                     {
+                        "is_bind_type" : true,
+                        "is_errorable" : false,
+                        "name" : "InvalidContainerSlotError"
+                     }
+                  ],
                   "is_bind_type" : false,
                   "is_errorable" : true,
                   "name" : "array"
@@ -4825,6 +4886,13 @@
                "name" : "getDynamicPropertyTotalByteCount",
                "privilege" : "read_only",
                "return_type" : {
+                  "error_types" : [
+                     {
+                        "is_bind_type" : true,
+                        "is_errorable" : false,
+                        "name" : "InvalidContainerSlotError"
+                     }
+                  ],
                   "is_bind_type" : false,
                   "is_errorable" : true,
                   "name" : "int32",
@@ -4841,6 +4909,13 @@
                "name" : "getItem",
                "privilege" : "read_only",
                "return_type" : {
+                  "error_types" : [
+                     {
+                        "is_bind_type" : true,
+                        "is_errorable" : false,
+                        "name" : "InvalidContainerSlotError"
+                     }
+                  ],
                   "is_bind_type" : false,
                   "is_errorable" : true,
                   "name" : "optional",
@@ -4863,6 +4938,13 @@
                      "is_errorable" : false,
                      "name" : "string"
                   },
+                  "error_types" : [
+                     {
+                        "is_bind_type" : true,
+                        "is_errorable" : false,
+                        "name" : "InvalidContainerSlotError"
+                     }
+                  ],
                   "is_bind_type" : false,
                   "is_errorable" : true,
                   "name" : "array"
@@ -4880,9 +4962,35 @@
                      "is_errorable" : false,
                      "name" : "string"
                   },
+                  "error_types" : [
+                     {
+                        "is_bind_type" : true,
+                        "is_errorable" : false,
+                        "name" : "InvalidContainerSlotError"
+                     }
+                  ],
                   "is_bind_type" : false,
                   "is_errorable" : true,
                   "name" : "array"
+               }
+            },
+            {
+               "arguments" : [],
+               "is_constructor" : false,
+               "is_static" : false,
+               "name" : "hasItem",
+               "privilege" : "read_only",
+               "return_type" : {
+                  "error_types" : [
+                     {
+                        "is_bind_type" : true,
+                        "is_errorable" : false,
+                        "name" : "InvalidContainerSlotError"
+                     }
+                  ],
+                  "is_bind_type" : false,
+                  "is_errorable" : true,
+                  "name" : "boolean"
                }
             },
             {
@@ -4902,6 +5010,13 @@
                "name" : "hasTag",
                "privilege" : "read_only",
                "return_type" : {
+                  "error_types" : [
+                     {
+                        "is_bind_type" : true,
+                        "is_errorable" : false,
+                        "name" : "InvalidContainerSlotError"
+                     }
+                  ],
                   "is_bind_type" : false,
                   "is_errorable" : true,
                   "name" : "boolean"
@@ -4924,6 +5039,13 @@
                "name" : "isStackableWith",
                "privilege" : "read_only",
                "return_type" : {
+                  "error_types" : [
+                     {
+                        "is_bind_type" : true,
+                        "is_errorable" : false,
+                        "name" : "InvalidContainerSlotError"
+                     }
+                  ],
                   "is_bind_type" : false,
                   "is_errorable" : true,
                   "name" : "boolean"
@@ -4970,6 +5092,18 @@
                "name" : "setCanDestroy",
                "privilege" : "none",
                "return_type" : {
+                  "error_types" : [
+                     {
+                        "is_bind_type" : false,
+                        "is_errorable" : false,
+                        "name" : "Error"
+                     },
+                     {
+                        "is_bind_type" : true,
+                        "is_errorable" : false,
+                        "name" : "InvalidContainerSlotError"
+                     }
+                  ],
                   "is_bind_type" : false,
                   "is_errorable" : true,
                   "name" : "undefined"
@@ -5004,6 +5138,18 @@
                "name" : "setCanPlaceOn",
                "privilege" : "none",
                "return_type" : {
+                  "error_types" : [
+                     {
+                        "is_bind_type" : false,
+                        "is_errorable" : false,
+                        "name" : "Error"
+                     },
+                     {
+                        "is_bind_type" : true,
+                        "is_errorable" : false,
+                        "name" : "InvalidContainerSlotError"
+                     }
+                  ],
                   "is_bind_type" : false,
                   "is_errorable" : true,
                   "name" : "undefined"
@@ -5077,6 +5223,18 @@
                "name" : "setDynamicProperty",
                "privilege" : "read_only",
                "return_type" : {
+                  "error_types" : [
+                     {
+                        "is_bind_type" : false,
+                        "is_errorable" : false,
+                        "name" : "Error"
+                     },
+                     {
+                        "is_bind_type" : true,
+                        "is_errorable" : false,
+                        "name" : "InvalidContainerSlotError"
+                     }
+                  ],
                   "is_bind_type" : false,
                   "is_errorable" : true,
                   "name" : "undefined"
@@ -5106,6 +5264,13 @@
                "name" : "setItem",
                "privilege" : "none",
                "return_type" : {
+                  "error_types" : [
+                     {
+                        "is_bind_type" : true,
+                        "is_errorable" : false,
+                        "name" : "InvalidContainerSlotError"
+                     }
+                  ],
                   "is_bind_type" : false,
                   "is_errorable" : true,
                   "name" : "undefined"
@@ -5140,6 +5305,18 @@
                "name" : "setLore",
                "privilege" : "none",
                "return_type" : {
+                  "error_types" : [
+                     {
+                        "is_bind_type" : false,
+                        "is_errorable" : false,
+                        "name" : "Error"
+                     },
+                     {
+                        "is_bind_type" : true,
+                        "is_errorable" : false,
+                        "name" : "InvalidContainerSlotError"
+                     }
+                  ],
                   "is_bind_type" : false,
                   "is_errorable" : true,
                   "name" : "undefined"
@@ -5166,6 +5343,13 @@
                "is_read_only" : true,
                "name" : "isStackable",
                "type" : {
+                  "error_types" : [
+                     {
+                        "is_bind_type" : true,
+                        "is_errorable" : false,
+                        "name" : "InvalidContainerSlotError"
+                     }
+                  ],
                   "is_bind_type" : false,
                   "is_errorable" : true,
                   "name" : "boolean"
@@ -5195,6 +5379,13 @@
                "is_read_only" : true,
                "name" : "maxAmount",
                "type" : {
+                  "error_types" : [
+                     {
+                        "is_bind_type" : true,
+                        "is_errorable" : false,
+                        "name" : "InvalidContainerSlotError"
+                     }
+                  ],
                   "is_bind_type" : false,
                   "is_errorable" : true,
                   "name" : "int32",
@@ -5223,6 +5414,23 @@
                "is_read_only" : true,
                "name" : "type",
                "type" : {
+                  "error_types" : [
+                     {
+                        "from_module" : {
+                           "name" : "@minecraft/common",
+                           "uuid" : "77ec12b4-1b2b-4c98-8d34-d1cd63f849d5",
+                           "version" : "1.1.0"
+                        },
+                        "is_bind_type" : true,
+                        "is_errorable" : false,
+                        "name" : "EngineError"
+                     },
+                     {
+                        "is_bind_type" : true,
+                        "is_errorable" : false,
+                        "name" : "InvalidContainerSlotError"
+                     }
+                  ],
                   "is_bind_type" : true,
                   "is_errorable" : true,
                   "name" : "ItemType"
@@ -5232,14 +5440,16 @@
                "is_read_only" : true,
                "name" : "typeId",
                "type" : {
+                  "error_types" : [
+                     {
+                        "is_bind_type" : true,
+                        "is_errorable" : false,
+                        "name" : "InvalidContainerSlotError"
+                     }
+                  ],
                   "is_bind_type" : false,
                   "is_errorable" : true,
-                  "name" : "optional",
-                  "optional_type" : {
-                     "is_bind_type" : false,
-                     "is_errorable" : false,
-                     "name" : "string"
-                  }
+                  "name" : "string"
                }
             }
          ],
@@ -5631,8 +5841,8 @@
                   },
                   {
                      "details" : {
-                        "max_value" : 3.402823466385289e+38,
-                        "min_value" : -3.402823466385289e+38
+                        "max_value" : 1000.0,
+                        "min_value" : 0.0
                      },
                      "name" : "radius",
                      "type" : {
@@ -6161,7 +6371,9 @@
                   },
                   {
                      "details" : {
-                        "default_value" : "null"
+                        "default_value" : "null",
+                        "max_value" : 1000000,
+                        "min_value" : 1
                      },
                      "name" : "duration",
                      "type" : {
@@ -7294,9 +7506,7 @@
                "arguments" : [
                   {
                      "details" : {
-                        "default_value" : true,
-                        "max_value" : true,
-                        "min_value" : false
+                        "default_value" : true
                      },
                      "name" : "useEffects",
                      "type" : {
@@ -8102,9 +8312,7 @@
                   },
                   {
                      "details" : {
-                        "default_value" : true,
-                        "max_value" : true,
-                        "min_value" : false
+                        "default_value" : true
                      },
                      "name" : "useEffects",
                      "type" : {
@@ -11199,10 +11407,7 @@
             {
                "arguments" : [
                   {
-                     "details" : {
-                        "max_value" : true,
-                        "min_value" : false
-                     },
+                     "details" : null,
                      "name" : "showParticles",
                      "type" : {
                         "is_bind_type" : false,
@@ -18277,10 +18482,7 @@
             {
                "arguments" : [
                   {
-                     "details" : {
-                        "max_value" : true,
-                        "min_value" : false
-                     },
+                     "details" : null,
                      "name" : "isOp",
                      "type" : {
                         "is_bind_type" : false,
@@ -23802,6 +24004,161 @@
       {
          "base_types" : [],
          "constants" : [],
+         "functions" : [],
+         "name" : "WeatherChangeBeforeEvent",
+         "properties" : [
+            {
+               "is_read_only" : false,
+               "name" : "cancel",
+               "privilege" : "read_only",
+               "type" : {
+                  "is_bind_type" : false,
+                  "is_errorable" : false,
+                  "name" : "boolean"
+               }
+            },
+            {
+               "is_read_only" : false,
+               "name" : "duration",
+               "privilege" : "read_only",
+               "type" : {
+                  "is_bind_type" : false,
+                  "is_errorable" : false,
+                  "name" : "int32",
+                  "valid_range" : {
+                     "max" : 2147483647,
+                     "min" : -2147483648
+                  }
+               }
+            },
+            {
+               "is_read_only" : false,
+               "name" : "newWeather",
+               "privilege" : "read_only",
+               "type" : {
+                  "is_bind_type" : true,
+                  "is_errorable" : false,
+                  "name" : "WeatherType"
+               }
+            },
+            {
+               "is_read_only" : true,
+               "name" : "previousWeather",
+               "type" : {
+                  "is_bind_type" : true,
+                  "is_errorable" : false,
+                  "name" : "WeatherType"
+               }
+            }
+         ],
+         "type" : {
+            "is_bind_type" : true,
+            "is_errorable" : false,
+            "name" : "WeatherChangeBeforeEvent"
+         }
+      },
+      {
+         "base_types" : [],
+         "constants" : [],
+         "functions" : [
+            {
+               "arguments" : [
+                  {
+                     "details" : null,
+                     "name" : "callback",
+                     "type" : {
+                        "closure_type" : {
+                           "argument_types" : [
+                              {
+                                 "is_bind_type" : true,
+                                 "is_errorable" : false,
+                                 "name" : "WeatherChangeBeforeEvent"
+                              }
+                           ],
+                           "return_type" : {
+                              "is_bind_type" : false,
+                              "is_errorable" : true,
+                              "name" : "undefined"
+                           }
+                        },
+                        "is_bind_type" : false,
+                        "is_errorable" : false,
+                        "name" : "closure"
+                     }
+                  }
+               ],
+               "is_constructor" : false,
+               "is_static" : false,
+               "name" : "subscribe",
+               "privilege" : "none",
+               "return_type" : {
+                  "closure_type" : {
+                     "argument_types" : [
+                        {
+                           "is_bind_type" : true,
+                           "is_errorable" : false,
+                           "name" : "WeatherChangeBeforeEvent"
+                        }
+                     ],
+                     "return_type" : {
+                        "is_bind_type" : false,
+                        "is_errorable" : true,
+                        "name" : "undefined"
+                     }
+                  },
+                  "is_bind_type" : false,
+                  "is_errorable" : false,
+                  "name" : "closure"
+               }
+            },
+            {
+               "arguments" : [
+                  {
+                     "details" : null,
+                     "name" : "callback",
+                     "type" : {
+                        "closure_type" : {
+                           "argument_types" : [
+                              {
+                                 "is_bind_type" : true,
+                                 "is_errorable" : false,
+                                 "name" : "WeatherChangeBeforeEvent"
+                              }
+                           ],
+                           "return_type" : {
+                              "is_bind_type" : false,
+                              "is_errorable" : true,
+                              "name" : "undefined"
+                           }
+                        },
+                        "is_bind_type" : false,
+                        "is_errorable" : false,
+                        "name" : "closure"
+                     }
+                  }
+               ],
+               "is_constructor" : false,
+               "is_static" : false,
+               "name" : "unsubscribe",
+               "privilege" : "none",
+               "return_type" : {
+                  "is_bind_type" : false,
+                  "is_errorable" : true,
+                  "name" : "undefined"
+               }
+            }
+         ],
+         "name" : "WeatherChangeBeforeEventSignal",
+         "properties" : [],
+         "type" : {
+            "is_bind_type" : true,
+            "is_errorable" : false,
+            "name" : "WeatherChangeBeforeEventSignal"
+         }
+      },
+      {
+         "base_types" : [],
+         "constants" : [],
          "functions" : [
             {
                "arguments" : [
@@ -25027,6 +25384,15 @@
                   "is_bind_type" : true,
                   "is_errorable" : false,
                   "name" : "PlayerPlaceBlockBeforeEventSignal"
+               }
+            },
+            {
+               "is_read_only" : true,
+               "name" : "weatherChange",
+               "type" : {
+                  "is_bind_type" : true,
+                  "is_errorable" : false,
+                  "name" : "WeatherChangeBeforeEventSignal"
                }
             }
          ],
@@ -28017,6 +28383,15 @@
          }
       },
       {
+         "name" : "InvalidContainerSlotError",
+         "properties" : [],
+         "type" : {
+            "is_bind_type" : true,
+            "is_errorable" : false,
+            "name" : "InvalidContainerSlotError"
+         }
+      },
+      {
          "name" : "LocationInUnloadedChunkError",
          "properties" : [],
          "type" : {
@@ -30646,7 +31021,7 @@
          }
       }
    ],
-   "minecraft_version" : "1.20.60-beta.24",
+   "minecraft_version" : "1.20.60-beta.25",
    "module_type" : "script",
    "name" : "@minecraft/server",
    "objects" : [

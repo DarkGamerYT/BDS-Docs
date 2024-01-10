@@ -3336,9 +3336,7 @@
                   },
                   {
                      "details" : {
-                        "default_value" : true,
-                        "max_value" : true,
-                        "min_value" : false
+                        "default_value" : true
                      },
                      "name" : "showParticles",
                      "type" : {
@@ -3907,9 +3905,7 @@
                   },
                   {
                      "details" : {
-                        "default_value" : false,
-                        "max_value" : true,
-                        "min_value" : false
+                        "default_value" : false
                      },
                      "name" : "keepVelocity",
                      "type" : {
@@ -3960,9 +3956,7 @@
                   },
                   {
                      "details" : {
-                        "default_value" : false,
-                        "max_value" : true,
-                        "min_value" : false
+                        "default_value" : false
                      },
                      "name" : "keepVelocity",
                      "type" : {
@@ -5969,10 +5963,7 @@
             {
                "arguments" : [
                   {
-                     "details" : {
-                        "max_value" : true,
-                        "min_value" : false
-                     },
+                     "details" : null,
                      "name" : "showParticles",
                      "type" : {
                         "is_bind_type" : false,
@@ -33991,7 +33982,7 @@
    "errors" : [],
    "functions" : [],
    "interfaces" : [],
-   "minecraft_version" : "1.20.60-beta.24",
+   "minecraft_version" : "1.20.60-beta.25",
    "module_type" : "script",
    "name" : "mojang-minecraft",
    "objects" : [

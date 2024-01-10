@@ -15085,6 +15085,9 @@
                "value" : "enchant"
             },
             {
+               "value" : "clearrealmevents"
+            },
+            {
                "value" : "allowlist"
             },
             {
@@ -25370,24 +25373,6 @@
                "value" : "endermite"
             },
             {
-               "value" : "minecraft:goat"
-            },
-            {
-               "value" : "goat"
-            },
-            {
-               "value" : "minecraft:villager"
-            },
-            {
-               "value" : "villager"
-            },
-            {
-               "value" : "minecraft:magma_cube"
-            },
-            {
-               "value" : "magma_cube"
-            },
-            {
                "value" : "minecraft:zombie_horse"
             },
             {
@@ -25398,6 +25383,18 @@
             },
             {
                "value" : "ghast"
+            },
+            {
+               "value" : "minecraft:zoglin"
+            },
+            {
+               "value" : "zoglin"
+            },
+            {
+               "value" : "minecraft:cave_spider"
+            },
+            {
+               "value" : "cave_spider"
             },
             {
                "value" : "minecraft:wither"
@@ -25506,6 +25503,24 @@
             },
             {
                "value" : "tadpole"
+            },
+            {
+               "value" : "minecraft:villager"
+            },
+            {
+               "value" : "villager"
+            },
+            {
+               "value" : "minecraft:magma_cube"
+            },
+            {
+               "value" : "magma_cube"
+            },
+            {
+               "value" : "minecraft:goat"
+            },
+            {
+               "value" : "goat"
             },
             {
                "value" : "minecraft:blaze"
@@ -25664,10 +25679,10 @@
                "value" : "rabbit"
             },
             {
-               "value" : "minecraft:glow_squid"
+               "value" : "minecraft:skeleton_horse"
             },
             {
-               "value" : "glow_squid"
+               "value" : "skeleton_horse"
             },
             {
                "value" : "minecraft:wandering_trader"
@@ -25676,10 +25691,22 @@
                "value" : "wandering_trader"
             },
             {
-               "value" : "minecraft:skeleton_horse"
+               "value" : "minecraft:tropicalfish"
             },
             {
-               "value" : "skeleton_horse"
+               "value" : "tropicalfish"
+            },
+            {
+               "value" : "minecraft:elder_guardian"
+            },
+            {
+               "value" : "elder_guardian"
+            },
+            {
+               "value" : "minecraft:glow_squid"
+            },
+            {
+               "value" : "glow_squid"
             },
             {
                "value" : "minecraft:splash_potion"
@@ -25718,6 +25745,18 @@
                "value" : "command_block_minecart"
             },
             {
+               "value" : "minecraft:elder_guardian_ghost"
+            },
+            {
+               "value" : "elder_guardian_ghost"
+            },
+            {
+               "value" : "minecraft:pig"
+            },
+            {
+               "value" : "pig"
+            },
+            {
                "value" : "minecraft:parrot"
             },
             {
@@ -25740,42 +25779,6 @@
             },
             {
                "value" : "cat"
-            },
-            {
-               "value" : "minecraft:elder_guardian_ghost"
-            },
-            {
-               "value" : "elder_guardian_ghost"
-            },
-            {
-               "value" : "minecraft:pig"
-            },
-            {
-               "value" : "pig"
-            },
-            {
-               "value" : "minecraft:tropicalfish"
-            },
-            {
-               "value" : "tropicalfish"
-            },
-            {
-               "value" : "minecraft:elder_guardian"
-            },
-            {
-               "value" : "elder_guardian"
-            },
-            {
-               "value" : "minecraft:cave_spider"
-            },
-            {
-               "value" : "cave_spider"
-            },
-            {
-               "value" : "minecraft:zoglin"
-            },
-            {
-               "value" : "zoglin"
             }
          ]
       },
@@ -29582,7 +29585,7 @@
       },
       {
          "aliases" : [],
-         "description" : "commands.hud.description",
+         "description" : "Changes the visibility of hud elements.",
          "name" : "hud",
          "overloads" : [
             {
@@ -34174,7 +34177,7 @@
          "requires_cheats" : true
       }
    ],
-   "minecraft_version" : "1.20.60-beta.24",
+   "minecraft_version" : "1.20.60-beta.25",
    "module_type" : "commands",
    "name" : "mojang-commands"
 }
