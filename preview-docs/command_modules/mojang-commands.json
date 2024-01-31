@@ -3290,6 +3290,12 @@
                "value" : "ancient_debris"
             },
             {
+               "value" : "minecraft:vault"
+            },
+            {
+               "value" : "vault"
+            },
+            {
                "value" : "minecraft:beehive"
             },
             {
@@ -11149,6 +11155,12 @@
                "value" : "ancient_debris"
             },
             {
+               "value" : "minecraft:vault"
+            },
+            {
+               "value" : "vault"
+            },
+            {
                "value" : "minecraft:beehive"
             },
             {
@@ -13215,9 +13227,6 @@
                "value" : "entity_attack"
             },
             {
-               "value" : "suicide"
-            },
-            {
                "value" : "projectile"
             },
             {
@@ -13252,6 +13261,9 @@
             },
             {
                "value" : "suffocation"
+            },
+            {
+               "value" : "self_destruct"
             },
             {
                "value" : "magic"
@@ -16018,6 +16030,9 @@
             },
             {
                "value" : "minecraft:item.jungle_door"
+            },
+            {
+               "value" : "minecraft:vault"
             },
             {
                "value" : "minecraft:deepslate_gold_ore"
@@ -34420,7 +34435,7 @@
          "requires_cheats" : true
       }
    ],
-   "minecraft_version" : "1.20.70-beta.20",
+   "minecraft_version" : "1.20.70-beta.21",
    "module_type" : "commands",
    "name" : "mojang-commands"
 }

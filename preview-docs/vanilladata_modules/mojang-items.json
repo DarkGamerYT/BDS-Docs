@@ -3187,6 +3187,9 @@
          "name" : "minecraft:undyed_shulker_box"
       },
       {
+         "name" : "minecraft:vault"
+      },
+      {
          "name" : "minecraft:verdant_froglight"
       },
       {
@@ -3565,7 +3568,7 @@
          "name" : "minecraft:zombie_villager_spawn_egg"
       }
    ],
-   "minecraft_version" : "1.20.70-beta.20",
+   "minecraft_version" : "1.20.70-beta.21",
    "module_type" : "vanilla_data",
    "name" : "mojang-item",
    "vanilla_data_type" : "item"
