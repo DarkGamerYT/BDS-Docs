@@ -3289,18 +3289,6 @@
       {
          "base_types" : [],
          "constants" : [],
-         "functions" : [],
-         "name" : "EnchantmentSlot",
-         "properties" : [],
-         "type" : {
-            "is_bind_type" : true,
-            "is_errorable" : false,
-            "name" : "EnchantmentSlot"
-         }
-      },
-      {
-         "base_types" : [],
-         "constants" : [],
          "functions" : [
             {
                "arguments" : [
@@ -3348,9 +3336,7 @@
                   },
                   {
                      "details" : {
-                        "default_value" : true,
-                        "max_value" : true,
-                        "min_value" : false
+                        "default_value" : true
                      },
                      "name" : "showParticles",
                      "type" : {
@@ -3919,9 +3905,7 @@
                   },
                   {
                      "details" : {
-                        "default_value" : false,
-                        "max_value" : true,
-                        "min_value" : false
+                        "default_value" : false
                      },
                      "name" : "keepVelocity",
                      "type" : {
@@ -3972,9 +3956,7 @@
                   },
                   {
                      "details" : {
-                        "default_value" : false,
-                        "max_value" : true,
-                        "min_value" : false
+                        "default_value" : false
                      },
                      "name" : "keepVelocity",
                      "type" : {
@@ -5981,10 +5963,7 @@
             {
                "arguments" : [
                   {
-                     "details" : {
-                        "max_value" : true,
-                        "min_value" : false
-                     },
+                     "details" : null,
                      "name" : "showParticles",
                      "type" : {
                         "is_bind_type" : false,
@@ -8684,7 +8663,7 @@
                         "max_value" : 3,
                         "min_value" : 0
                      },
-                     "name" : "unbreaking",
+                     "name" : "unbreakingEnchantmentLevel",
                      "type" : {
                         "is_bind_type" : false,
                         "is_errorable" : false,
@@ -8829,9 +8808,14 @@
                "is_read_only" : true,
                "name" : "itemStack",
                "type" : {
-                  "is_bind_type" : true,
+                  "is_bind_type" : false,
                   "is_errorable" : false,
-                  "name" : "ItemStack"
+                  "name" : "optional",
+                  "optional_type" : {
+                     "is_bind_type" : true,
+                     "is_errorable" : false,
+                     "name" : "ItemStack"
+                  }
                }
             },
             {
@@ -15040,26 +15024,6 @@
                "is_read_only" : true,
                "is_static" : true,
                "name" : "hardGlassPane",
-               "type" : {
-                  "is_bind_type" : true,
-                  "is_errorable" : false,
-                  "name" : "BlockType"
-               }
-            },
-            {
-               "is_read_only" : true,
-               "is_static" : true,
-               "name" : "hardStainedGlass",
-               "type" : {
-                  "is_bind_type" : true,
-                  "is_errorable" : false,
-                  "name" : "BlockType"
-               }
-            },
-            {
-               "is_read_only" : true,
-               "is_static" : true,
-               "name" : "hardStainedGlassPane",
                "type" : {
                   "is_bind_type" : true,
                   "is_errorable" : false,
@@ -28146,16 +28110,6 @@
             {
                "is_read_only" : true,
                "is_static" : true,
-               "name" : "scute",
-               "type" : {
-                  "is_bind_type" : true,
-                  "is_errorable" : false,
-                  "name" : "ItemType"
-               }
-            },
-            {
-               "is_read_only" : true,
-               "is_static" : true,
                "name" : "seagrass",
                "type" : {
                   "is_bind_type" : true,
@@ -30663,42 +30617,6 @@
             "is_bind_type" : true,
             "is_errorable" : false,
             "name" : "MusicOptions"
-         }
-      },
-      {
-         "base_types" : [],
-         "constants" : [],
-         "functions" : [],
-         "name" : "NavigationResult",
-         "properties" : [
-            {
-               "is_read_only" : true,
-               "name" : "isFullPath",
-               "type" : {
-                  "is_bind_type" : false,
-                  "is_errorable" : false,
-                  "name" : "boolean"
-               }
-            },
-            {
-               "is_read_only" : true,
-               "name" : "path",
-               "type" : {
-                  "element_type" : {
-                     "is_bind_type" : true,
-                     "is_errorable" : false,
-                     "name" : "BlockLocation"
-                  },
-                  "is_bind_type" : false,
-                  "is_errorable" : false,
-                  "name" : "array"
-               }
-            }
-         ],
-         "type" : {
-            "is_bind_type" : true,
-            "is_errorable" : false,
-            "name" : "NavigationResult"
          }
       },
       {
@@ -34064,7 +33982,7 @@
    "errors" : [],
    "functions" : [],
    "interfaces" : [],
-   "minecraft_version" : "1.20.51",
+   "minecraft_version" : "1.20.61",
    "module_type" : "script",
    "name" : "mojang-minecraft",
    "objects" : [
