@@ -133,6 +133,12 @@
                "value" : "blue_candle"
             },
             {
+               "value" : "minecraft:dark_oak_wood"
+            },
+            {
+               "value" : "dark_oak_wood"
+            },
+            {
                "value" : "minecraft:polished_basalt"
             },
             {
@@ -451,6 +457,12 @@
                "value" : "warped_pressure_plate"
             },
             {
+               "value" : "minecraft:stripped_acacia_wood"
+            },
+            {
+               "value" : "stripped_acacia_wood"
+            },
+            {
                "value" : "minecraft:diamond_block"
             },
             {
@@ -593,6 +605,12 @@
             },
             {
                "value" : "muddy_mangrove_roots"
+            },
+            {
+               "value" : "minecraft:stripped_jungle_wood"
+            },
+            {
+               "value" : "stripped_jungle_wood"
             },
             {
                "value" : "minecraft:noteblock"
@@ -841,6 +859,12 @@
                "value" : "brain_coral"
             },
             {
+               "value" : "minecraft:stripped_spruce_wood"
+            },
+            {
+               "value" : "stripped_spruce_wood"
+            },
+            {
                "value" : "minecraft:orange_wool"
             },
             {
@@ -871,10 +895,22 @@
                "value" : "waxed_exposed_copper"
             },
             {
+               "value" : "minecraft:birch_wood"
+            },
+            {
+               "value" : "birch_wood"
+            },
+            {
                "value" : "minecraft:hay_block"
             },
             {
                "value" : "hay_block"
+            },
+            {
+               "value" : "minecraft:jungle_wood"
+            },
+            {
+               "value" : "jungle_wood"
             },
             {
                "value" : "minecraft:waxed_weathered_copper"
@@ -1127,12 +1163,6 @@
             },
             {
                "value" : "dark_oak_log"
-            },
-            {
-               "value" : "minecraft:wood"
-            },
-            {
-               "value" : "wood"
             },
             {
                "value" : "minecraft:acacia_hanging_sign"
@@ -2017,6 +2047,12 @@
                "value" : "white_stained_glass_pane"
             },
             {
+               "value" : "minecraft:stripped_birch_wood"
+            },
+            {
+               "value" : "stripped_birch_wood"
+            },
+            {
                "value" : "minecraft:cracked_nether_bricks"
             },
             {
@@ -2269,6 +2305,12 @@
                "value" : "white_terracotta"
             },
             {
+               "value" : "minecraft:stripped_oak_wood"
+            },
+            {
+               "value" : "stripped_oak_wood"
+            },
+            {
                "value" : "minecraft:light_blue_carpet"
             },
             {
@@ -2293,6 +2335,12 @@
                "value" : "crimson_planks"
             },
             {
+               "value" : "minecraft:stripped_dark_oak_wood"
+            },
+            {
+               "value" : "stripped_dark_oak_wood"
+            },
+            {
                "value" : "minecraft:waxed_weathered_cut_copper"
             },
             {
@@ -2303,6 +2351,12 @@
             },
             {
                "value" : "white_stained_glass"
+            },
+            {
+               "value" : "minecraft:oak_wood"
+            },
+            {
+               "value" : "oak_wood"
             },
             {
                "value" : "minecraft:purple_stained_glass_pane"
@@ -3640,6 +3694,12 @@
                "value" : "mud_bricks"
             },
             {
+               "value" : "minecraft:acacia_wood"
+            },
+            {
+               "value" : "acacia_wood"
+            },
+            {
                "value" : "minecraft:gray_stained_glass_pane"
             },
             {
@@ -4246,6 +4306,12 @@
                "value" : "yellow_stained_glass"
             },
             {
+               "value" : "minecraft:spruce_wood"
+            },
+            {
+               "value" : "spruce_wood"
+            },
+            {
                "value" : "minecraft:blackstone"
             },
             {
@@ -4705,18 +4771,6 @@
                "value" : "minecraft:log2"
             },
             {
-               "value" : "leaves"
-            },
-            {
-               "value" : "minecraft:leaves"
-            },
-            {
-               "value" : "leaves2"
-            },
-            {
-               "value" : "minecraft:leaves2"
-            },
-            {
                "value" : "coral"
             },
             {
@@ -4793,6 +4847,24 @@
             },
             {
                "value" : "minecraft:wooden_slab"
+            },
+            {
+               "value" : "leaves"
+            },
+            {
+               "value" : "minecraft:leaves"
+            },
+            {
+               "value" : "leaves2"
+            },
+            {
+               "value" : "minecraft:leaves2"
+            },
+            {
+               "value" : "wood"
+            },
+            {
+               "value" : "minecraft:wood"
             },
             {
                "value" : "minecraft:armor_stand"
@@ -7922,6 +7994,12 @@
                "value" : "blue_candle"
             },
             {
+               "value" : "minecraft:dark_oak_wood"
+            },
+            {
+               "value" : "dark_oak_wood"
+            },
+            {
                "value" : "minecraft:birch_standing_sign"
             },
             {
@@ -8288,6 +8366,12 @@
                "value" : "warped_pressure_plate"
             },
             {
+               "value" : "minecraft:stripped_acacia_wood"
+            },
+            {
+               "value" : "stripped_acacia_wood"
+            },
+            {
                "value" : "minecraft:diamond_block"
             },
             {
@@ -8442,6 +8526,12 @@
             },
             {
                "value" : "muddy_mangrove_roots"
+            },
+            {
+               "value" : "minecraft:stripped_jungle_wood"
+            },
+            {
+               "value" : "stripped_jungle_wood"
             },
             {
                "value" : "minecraft:noteblock"
@@ -8744,6 +8834,12 @@
                "value" : "brain_coral"
             },
             {
+               "value" : "minecraft:stripped_spruce_wood"
+            },
+            {
+               "value" : "stripped_spruce_wood"
+            },
+            {
                "value" : "minecraft:orange_wool"
             },
             {
@@ -8786,10 +8882,22 @@
                "value" : "waxed_exposed_copper"
             },
             {
+               "value" : "minecraft:birch_wood"
+            },
+            {
+               "value" : "birch_wood"
+            },
+            {
                "value" : "minecraft:hay_block"
             },
             {
                "value" : "hay_block"
+            },
+            {
+               "value" : "minecraft:jungle_wood"
+            },
+            {
+               "value" : "jungle_wood"
             },
             {
                "value" : "minecraft:waxed_weathered_copper"
@@ -9060,12 +9168,6 @@
             },
             {
                "value" : "dark_oak_log"
-            },
-            {
-               "value" : "minecraft:wood"
-            },
-            {
-               "value" : "wood"
             },
             {
                "value" : "minecraft:acacia_hanging_sign"
@@ -10070,6 +10172,12 @@
                "value" : "white_stained_glass_pane"
             },
             {
+               "value" : "minecraft:stripped_birch_wood"
+            },
+            {
+               "value" : "stripped_birch_wood"
+            },
+            {
                "value" : "minecraft:cracked_nether_bricks"
             },
             {
@@ -10364,6 +10472,12 @@
                "value" : "white_terracotta"
             },
             {
+               "value" : "minecraft:stripped_oak_wood"
+            },
+            {
+               "value" : "stripped_oak_wood"
+            },
+            {
                "value" : "minecraft:light_blue_carpet"
             },
             {
@@ -10394,6 +10508,12 @@
                "value" : "crimson_planks"
             },
             {
+               "value" : "minecraft:stripped_dark_oak_wood"
+            },
+            {
+               "value" : "stripped_dark_oak_wood"
+            },
+            {
                "value" : "minecraft:waxed_weathered_cut_copper"
             },
             {
@@ -10404,6 +10524,12 @@
             },
             {
                "value" : "white_stained_glass"
+            },
+            {
+               "value" : "minecraft:oak_wood"
+            },
+            {
+               "value" : "oak_wood"
             },
             {
                "value" : "minecraft:purple_stained_glass_pane"
@@ -11960,6 +12086,12 @@
                "value" : "bamboo_wall_sign"
             },
             {
+               "value" : "minecraft:acacia_wood"
+            },
+            {
+               "value" : "acacia_wood"
+            },
+            {
                "value" : "minecraft:gray_stained_glass_pane"
             },
             {
@@ -12674,6 +12806,12 @@
                "value" : "jungle_double_slab"
             },
             {
+               "value" : "minecraft:spruce_wood"
+            },
+            {
+               "value" : "spruce_wood"
+            },
+            {
                "value" : "minecraft:blackstone"
             },
             {
@@ -13256,28 +13394,10 @@
                "value" : "minecraft:log2"
             },
             {
-               "value" : "leaves"
-            },
-            {
-               "value" : "minecraft:leaves"
-            },
-            {
-               "value" : "leaves2"
-            },
-            {
-               "value" : "minecraft:leaves2"
-            },
-            {
                "value" : "coral"
             },
             {
                "value" : "minecraft:coral"
-            },
-            {
-               "value" : "lava_cauldron"
-            },
-            {
-               "value" : "minecraft:lava_cauldron"
             },
             {
                "value" : "fence"
@@ -13356,6 +13476,30 @@
             },
             {
                "value" : "minecraft:double_wooden_slab"
+            },
+            {
+               "value" : "leaves"
+            },
+            {
+               "value" : "minecraft:leaves"
+            },
+            {
+               "value" : "leaves2"
+            },
+            {
+               "value" : "minecraft:leaves2"
+            },
+            {
+               "value" : "wood"
+            },
+            {
+               "value" : "minecraft:wood"
+            },
+            {
+               "value" : "lava_cauldron"
+            },
+            {
+               "value" : "minecraft:lava_cauldron"
             }
          ]
       },
@@ -14359,9 +14503,6 @@
                "value" : "minecraft:ranged_mode"
             },
             {
-               "value" : "minecraft:relax"
-            },
-            {
                "value" : "minecraft:remove_persistence"
             },
             {
@@ -14521,6 +14662,9 @@
                "value" : "minecraft:start_land"
             },
             {
+               "value" : "minecraft:start_peeking"
+            },
+            {
                "value" : "minecraft:start_playing_idle_ground_sound"
             },
             {
@@ -14533,7 +14677,7 @@
                "value" : "minecraft:start_transforming"
             },
             {
-               "value" : "minecraft:start_trying_to_relax"
+               "value" : "minecraft:start_unrolling"
             },
             {
                "value" : "minecraft:stop_aggro"
@@ -14548,6 +14692,9 @@
                "value" : "minecraft:stop_johnny"
             },
             {
+               "value" : "minecraft:stop_peeking"
+            },
+            {
                "value" : "minecraft:stop_playing_idle_ground_sound"
             },
             {
@@ -14555,9 +14702,6 @@
             },
             {
                "value" : "minecraft:stop_transforming"
-            },
-            {
-               "value" : "minecraft:stop_trying_to_relax"
             },
             {
                "value" : "minecraft:switch_to_melee"
@@ -14627,6 +14771,9 @@
             },
             {
                "value" : "minecraft:turn_yellow"
+            },
+            {
+               "value" : "minecraft:unroll"
             },
             {
                "value" : "navigation_off_land"
@@ -15488,6 +15635,9 @@
             },
             {
                "value" : "changesetting"
+            },
+            {
+               "value" : "sendshowstoreoffer"
             },
             {
                "value" : "reloadconfig"
@@ -16796,9 +16946,6 @@
                "value" : "minecraft:deepslate_tile_double_slab"
             },
             {
-               "value" : "minecraft:tuff"
-            },
-            {
                "value" : "minecraft:potatoes"
             },
             {
@@ -16863,9 +17010,6 @@
             },
             {
                "value" : "minecraft:trapdoor"
-            },
-            {
-               "value" : "minecraft:sculk_shrieker"
             },
             {
                "value" : "minecraft:stripped_dark_oak_log"
@@ -17300,9 +17444,6 @@
                "value" : "minecraft:blue_candle"
             },
             {
-               "value" : "minecraft:purple_candle"
-            },
-            {
                "value" : "minecraft:light_gray_candle"
             },
             {
@@ -17324,16 +17465,28 @@
                "value" : "minecraft:orange_candle"
             },
             {
-               "value" : "minecraft:brewing_stand"
-            },
-            {
-               "value" : "minecraft:guardian_spawn_egg"
-            },
-            {
-               "value" : "minecraft:white_candle"
+               "value" : "minecraft:candle"
             },
             {
                "value" : "minecraft:warped_slab"
+            },
+            {
+               "value" : "minecraft:crimson_slab"
+            },
+            {
+               "value" : "minecraft:lit_pumpkin"
+            },
+            {
+               "value" : "minecraft:carved_pumpkin"
+            },
+            {
+               "value" : "minecraft:light_block"
+            },
+            {
+               "value" : "minecraft:big_dripleaf"
+            },
+            {
+               "value" : "minecraft:colored_torch_bp"
             },
             {
                "value" : "minecraft:colored_torch_rg"
@@ -17399,6 +17552,39 @@
                "value" : "minecraft:hard_orange_stained_glass"
             },
             {
+               "value" : "minecraft:purple_candle"
+            },
+            {
+               "value" : "minecraft:stripped_acacia_wood"
+            },
+            {
+               "value" : "minecraft:skull_pottery_sherd"
+            },
+            {
+               "value" : "minecraft:green_concrete"
+            },
+            {
+               "value" : "minecraft:acacia_wood"
+            },
+            {
+               "value" : "minecraft:dragon_breath"
+            },
+            {
+               "value" : "minecraft:light_blue_concrete_powder"
+            },
+            {
+               "value" : "minecraft:stripped_spruce_wood"
+            },
+            {
+               "value" : "minecraft:sculk_shrieker"
+            },
+            {
+               "value" : "minecraft:spruce_wood"
+            },
+            {
+               "value" : "minecraft:oak_wood"
+            },
+            {
                "value" : "minecraft:grindstone"
             },
             {
@@ -17418,12 +17604,6 @@
             },
             {
                "value" : "minecraft:smithing_table"
-            },
-            {
-               "value" : "minecraft:big_dripleaf"
-            },
-            {
-               "value" : "minecraft:colored_torch_bp"
             },
             {
                "value" : "minecraft:birch_boat"
@@ -17484,9 +17664,6 @@
             },
             {
                "value" : "minecraft:lime_shulker_box"
-            },
-            {
-               "value" : "minecraft:candle"
             },
             {
                "value" : "minecraft:amethyst_block"
@@ -17564,6 +17741,9 @@
                "value" : "minecraft:black_stained_glass"
             },
             {
+               "value" : "minecraft:birch_wood"
+            },
+            {
                "value" : "minecraft:red_stained_glass"
             },
             {
@@ -17624,12 +17804,6 @@
                "value" : "minecraft:pink_concrete_powder"
             },
             {
-               "value" : "minecraft:dragon_breath"
-            },
-            {
-               "value" : "minecraft:light_blue_concrete_powder"
-            },
-            {
                "value" : "minecraft:fire_charge"
             },
             {
@@ -17637,12 +17811,6 @@
             },
             {
                "value" : "minecraft:concrete"
-            },
-            {
-               "value" : "minecraft:skull_pottery_sherd"
-            },
-            {
-               "value" : "minecraft:green_concrete"
             },
             {
                "value" : "minecraft:light_gray_concrete"
@@ -17744,10 +17912,10 @@
                "value" : "minecraft:seagrass"
             },
             {
-               "value" : "minecraft:gunpowder"
+               "value" : "minecraft:pumpkin"
             },
             {
-               "value" : "minecraft:pumpkin"
+               "value" : "minecraft:gunpowder"
             },
             {
                "value" : "minecraft:dead_tube_coral"
@@ -17768,7 +17936,10 @@
                "value" : "minecraft:tube_coral"
             },
             {
-               "value" : "minecraft:light_block"
+               "value" : "minecraft:netherite_ingot"
+            },
+            {
+               "value" : "minecraft:stripped_birch_wood"
             },
             {
                "value" : "minecraft:element_41"
@@ -17835,6 +18006,9 @@
             },
             {
                "value" : "minecraft:red_sandstone"
+            },
+            {
+               "value" : "minecraft:jungle_wood"
             },
             {
                "value" : "minecraft:azalea_leaves_flowered"
@@ -17997,9 +18171,6 @@
             },
             {
                "value" : "minecraft:pink_wool"
-            },
-            {
-               "value" : "minecraft:crimson_slab"
             },
             {
                "value" : "minecraft:crimson_pressure_plate"
@@ -18428,6 +18599,9 @@
                "value" : "minecraft:chemistry_table"
             },
             {
+               "value" : "minecraft:dark_oak_wood"
+            },
+            {
                "value" : "minecraft:echo_shard"
             },
             {
@@ -18669,6 +18843,12 @@
             },
             {
                "value" : "minecraft:hard_green_stained_glass"
+            },
+            {
+               "value" : "minecraft:cooked_chicken"
+            },
+            {
+               "value" : "minecraft:stripped_dark_oak_wood"
             },
             {
                "value" : "minecraft:heart_pottery_sherd"
@@ -18953,6 +19133,12 @@
                "value" : "minecraft:carrot_on_a_stick"
             },
             {
+               "value" : "minecraft:tuff"
+            },
+            {
+               "value" : "minecraft:stripped_oak_wood"
+            },
+            {
                "value" : "minecraft:gray_shulker_box"
             },
             {
@@ -19065,9 +19251,6 @@
             },
             {
                "value" : "minecraft:mutton"
-            },
-            {
-               "value" : "minecraft:carved_pumpkin"
             },
             {
                "value" : "minecraft:sculk"
@@ -19316,9 +19499,6 @@
                "value" : "minecraft:zombie_horse_spawn_egg"
             },
             {
-               "value" : "minecraft:netherite_ingot"
-            },
-            {
                "value" : "minecraft:waxed_cut_copper_slab"
             },
             {
@@ -19347,6 +19527,15 @@
             },
             {
                "value" : "minecraft:white_wool"
+            },
+            {
+               "value" : "minecraft:white_candle"
+            },
+            {
+               "value" : "minecraft:brewing_stand"
+            },
+            {
+               "value" : "minecraft:guardian_spawn_egg"
             },
             {
                "value" : "minecraft:element_26"
@@ -19479,9 +19668,6 @@
             },
             {
                "value" : "minecraft:pillager_spawn_egg"
-            },
-            {
-               "value" : "minecraft:cooked_chicken"
             },
             {
                "value" : "minecraft:beetroot"
@@ -19785,9 +19971,6 @@
             },
             {
                "value" : "minecraft:tropical_fish_bucket"
-            },
-            {
-               "value" : "minecraft:lit_pumpkin"
             },
             {
                "value" : "minecraft:magma"
@@ -20241,6 +20424,9 @@
             },
             {
                "value" : "minecraft:trident"
+            },
+            {
+               "value" : "minecraft:stripped_jungle_wood"
             },
             {
                "value" : "minecraft:slime_spawn_egg"
@@ -20898,6 +21084,78 @@
                "value" : "minecraft:wolf_armor"
             },
             {
+               "value" : "minecraft:spruce_planks_from_wood"
+            },
+            {
+               "value" : "minecraft:birch_planks_from_stripped_wood"
+            },
+            {
+               "value" : "minecraft:spruce_wood_stripped"
+            },
+            {
+               "value" : "minecraft:dark_oak_planks_from_stripped_wood"
+            },
+            {
+               "value" : "minecraft:dark_oak_planks_from_wood"
+            },
+            {
+               "value" : "minecraft:acacia_planks_from_wood"
+            },
+            {
+               "value" : "minecraft:birch_wood"
+            },
+            {
+               "value" : "minecraft:oak_wood_stripped"
+            },
+            {
+               "value" : "minecraft:acacia_wood"
+            },
+            {
+               "value" : "minecraft:acacia_planks_from_stripped_wood"
+            },
+            {
+               "value" : "minecraft:acacia_wood_stripped"
+            },
+            {
+               "value" : "minecraft:dark_oak_wood"
+            },
+            {
+               "value" : "minecraft:dark_oak_wood_stripped"
+            },
+            {
+               "value" : "minecraft:jungle_planks_from_stripped_wood"
+            },
+            {
+               "value" : "minecraft:birch_planks_from_wood"
+            },
+            {
+               "value" : "minecraft:spruce_wood"
+            },
+            {
+               "value" : "minecraft:birch_wood_stripped"
+            },
+            {
+               "value" : "minecraft:jungle_wood"
+            },
+            {
+               "value" : "minecraft:oak_planks_from_wood"
+            },
+            {
+               "value" : "minecraft:oak_wood"
+            },
+            {
+               "value" : "minecraft:spruce_planks_from_stripped_wood"
+            },
+            {
+               "value" : "minecraft:oak_planks_from_stripped_wood"
+            },
+            {
+               "value" : "minecraft:jungle_wood_stripped"
+            },
+            {
+               "value" : "minecraft:jungle_planks_from_wood"
+            },
+            {
                "value" : "minecraft:lime_stained_glass_pane"
             },
             {
@@ -21273,9 +21531,6 @@
                "value" : "minecraft:acacia_stairs"
             },
             {
-               "value" : "minecraft:spruce_planks_from_wood"
-            },
-            {
                "value" : "minecraft:cherry_slab"
             },
             {
@@ -21495,9 +21750,6 @@
                "value" : "minecraft:mangrove_fence"
             },
             {
-               "value" : "minecraft:birch_planks_from_stripped_wood"
-            },
-            {
                "value" : "minecraft:mangrove_trapdoor"
             },
             {
@@ -21624,9 +21876,6 @@
                "value" : "minecraft:lead"
             },
             {
-               "value" : "minecraft:spruce_wood_stripped"
-            },
-            {
                "value" : "minecraft:polished_basalt"
             },
             {
@@ -21738,9 +21987,6 @@
                "value" : "minecraft:birch_boat"
             },
             {
-               "value" : "minecraft:dark_oak_planks_from_stripped_wood"
-            },
-            {
                "value" : "minecraft:birch_planks_from_stripped"
             },
             {
@@ -21778,9 +22024,6 @@
             },
             {
                "value" : "minecraft:cyan_carpet"
-            },
-            {
-               "value" : "minecraft:dark_oak_planks_from_wood"
             },
             {
                "value" : "minecraft:Bowl_recipeId"
@@ -21867,19 +22110,10 @@
                "value" : "minecraft:hay_block"
             },
             {
-               "value" : "minecraft:acacia_planks_from_wood"
-            },
-            {
-               "value" : "minecraft:birch_wood"
-            },
-            {
                "value" : "minecraft:magenta_banner"
             },
             {
                "value" : "minecraft:birch_door"
-            },
-            {
-               "value" : "minecraft:oak_wood_stripped"
             },
             {
                "value" : "minecraft:mangrove_button"
@@ -22080,16 +22314,10 @@
                "value" : "minecraft:honey_bottle_to_sugar"
             },
             {
-               "value" : "minecraft:acacia_wood"
-            },
-            {
                "value" : "minecraft:iron_pickaxe"
             },
             {
                "value" : "minecraft:black_carpet"
-            },
-            {
-               "value" : "minecraft:acacia_planks_from_stripped_wood"
             },
             {
                "value" : "minecraft:waxing_weathered_copper"
@@ -22102,9 +22330,6 @@
             },
             {
                "value" : "minecraft:brown_concrete_powder"
-            },
-            {
-               "value" : "minecraft:acacia_wood_stripped"
             },
             {
                "value" : "minecraft:sign_jungle"
@@ -22180,9 +22405,6 @@
             },
             {
                "value" : "minecraft:bamboo_block"
-            },
-            {
-               "value" : "minecraft:dark_oak_wood"
             },
             {
                "value" : "minecraft:red_sandstone_wall"
@@ -22290,16 +22512,10 @@
                "value" : "minecraft:furnace"
             },
             {
-               "value" : "minecraft:dark_oak_wood_stripped"
-            },
-            {
                "value" : "minecraft:ward_armor_trim_smithing_template_duplicate"
             },
             {
                "value" : "minecraft:magenta_dye_from_allium"
-            },
-            {
-               "value" : "minecraft:jungle_planks_from_stripped_wood"
             },
             {
                "value" : "minecraft:crafting_table_waxed_oxidized_cut_copper_stairs"
@@ -22632,9 +22848,6 @@
                "value" : "minecraft:cherry_trapdoor"
             },
             {
-               "value" : "minecraft:birch_planks_from_wood"
-            },
-            {
                "value" : "minecraft:cherry_chest_boat"
             },
             {
@@ -22648,9 +22861,6 @@
             },
             {
                "value" : "minecraft:cyan_dye"
-            },
-            {
-               "value" : "minecraft:spruce_wood"
             },
             {
                "value" : "minecraft:light_blue_carpet_from_white"
@@ -22737,9 +22947,6 @@
                "value" : "minecraft:waxing_cut_copper_stairs"
             },
             {
-               "value" : "minecraft:birch_wood_stripped"
-            },
-            {
                "value" : "minecraft:brown_stained_hardened_clay_from_cocoa_beans"
             },
             {
@@ -22761,9 +22968,6 @@
                "value" : "minecraft:recovery_compass_from_lodestone_compass"
             },
             {
-               "value" : "minecraft:jungle_wood"
-            },
-            {
                "value" : "minecraft:netherite_ingot"
             },
             {
@@ -22783,9 +22987,6 @@
             },
             {
                "value" : "minecraft:light_gray_dye_from_oxeye_daisy"
-            },
-            {
-               "value" : "minecraft:oak_planks_from_wood"
             },
             {
                "value" : "minecraft:mangrove_planks"
@@ -22893,9 +23094,6 @@
                "value" : "minecraft:conduit"
             },
             {
-               "value" : "minecraft:oak_wood"
-            },
-            {
                "value" : "minecraft:beetroot_soup"
             },
             {
@@ -22927,9 +23125,6 @@
             },
             {
                "value" : "minecraft:dark_oak_boat"
-            },
-            {
-               "value" : "minecraft:spruce_planks_from_stripped_wood"
             },
             {
                "value" : "minecraft:brick_block"
@@ -23025,9 +23220,6 @@
                "value" : "minecraft:polished_deepslate_slab"
             },
             {
-               "value" : "minecraft:oak_planks_from_stripped_wood"
-            },
-            {
                "value" : "minecraft:crafting_table_waxed_weathered_cut_copper"
             },
             {
@@ -23056,9 +23248,6 @@
             },
             {
                "value" : "minecraft:shaper_armor_trim_smithing_template_duplicate"
-            },
-            {
-               "value" : "minecraft:jungle_wood_stripped"
             },
             {
                "value" : "minecraft:waxing_exposed_cut_copper_stairs"
@@ -23239,9 +23428,6 @@
             },
             {
                "value" : "minecraft:crimson_stairs"
-            },
-            {
-               "value" : "minecraft:jungle_planks_from_wood"
             },
             {
                "value" : "minecraft:snow_layer"
@@ -26480,6 +26666,25 @@
          "values" : [
             {
                "value" : "exportstats"
+            }
+         ]
+      },
+      {
+         "name" : "RedirectLocation",
+         "values" : [
+            {
+               "value" : "marketplace"
+            },
+            {
+               "value" : "character"
+            }
+         ]
+      },
+      {
+         "name" : "3PServerOfferList",
+         "values" : [
+            {
+               "value" : "server"
             }
          ]
       },
@@ -33081,6 +33286,60 @@
       },
       {
          "aliases" : [],
+         "description" : "Sends a request to show a store offer to the target player.",
+         "name" : "sendshowstoreoffer",
+         "overloads" : [
+            {
+               "name" : "1",
+               "params" : [
+                  {
+                     "is_optional" : false,
+                     "name" : "player",
+                     "type" : {
+                        "name" : "SELECTION"
+                     }
+                  },
+                  {
+                     "is_optional" : false,
+                     "name" : "redirectType",
+                     "type" : {
+                        "name" : "REDIRECTLOCATION"
+                     }
+                  },
+                  {
+                     "is_optional" : false,
+                     "name" : "offerId",
+                     "type" : {
+                        "name" : "ID"
+                     }
+                  }
+               ]
+            },
+            {
+               "name" : "2",
+               "params" : [
+                  {
+                     "is_optional" : false,
+                     "name" : "player",
+                     "type" : {
+                        "name" : "SELECTION"
+                     }
+                  },
+                  {
+                     "is_optional" : false,
+                     "name" : "redirectType",
+                     "type" : {
+                        "name" : "3PSERVEROFFERLIST"
+                     }
+                  }
+               ]
+            }
+         ],
+         "permission_level" : 4,
+         "requires_cheats" : true
+      },
+      {
+         "aliases" : [],
          "description" : "Changes a block to another block.",
          "name" : "setblock",
          "overloads" : [
@@ -35106,7 +35365,7 @@
          "requires_cheats" : true
       }
    ],
-   "minecraft_version" : "1.20.70-beta.21",
+   "minecraft_version" : "1.20.70-beta.22",
    "module_type" : "commands",
    "name" : "mojang-commands-internal"
 }

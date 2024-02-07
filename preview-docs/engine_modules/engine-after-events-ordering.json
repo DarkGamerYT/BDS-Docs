@@ -495,6 +495,9 @@
                "name" : "PlayerPlaceBlockAfterEvent"
             },
             {
+               "name" : "ExplosionAfterEvent"
+            },
+            {
                "name" : "PlayerBreakBlockAfterEvent"
             },
             {
@@ -594,6 +597,9 @@
                "name" : "WorldInitializeAfterEvent"
             },
             {
+               "name" : "GameRuleChangeAfterEvent"
+            },
+            {
                "name" : "MessageReceiveAfterEvent"
             },
             {
@@ -657,9 +663,6 @@
                "name" : "EntityRemoveAfterEvent"
             },
             {
-               "name" : "ItemDefinitionTriggeredAfterEvent"
-            },
-            {
                "name" : "ItemStartUseOnAfterEvent"
             },
             {
@@ -691,6 +694,9 @@
             },
             {
                "name" : "PlayerLeaveAfterEvent"
+            },
+            {
+               "name" : "PlayerGameModeChangeAfterEvent"
             },
             {
                "name" : "PlayerDimensionChangeAfterEvent"
@@ -736,6 +742,9 @@
             },
             {
                "name" : "PlayerPlaceBlockAfterEvent"
+            },
+            {
+               "name" : "ExplosionAfterEvent"
             },
             {
                "name" : "PlayerBreakBlockAfterEvent"
@@ -829,7 +838,7 @@
          "version" : "1.10.0-internal"
       }
    ],
-   "minecraft_version" : "1.20.70-beta.21",
+   "minecraft_version" : "1.20.70-beta.22",
    "module_type" : "after_events_ordering",
    "name" : "engine-after_events_ordering"
 }
