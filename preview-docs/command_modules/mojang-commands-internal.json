@@ -4867,12 +4867,6 @@
                "value" : "minecraft:wood"
             },
             {
-               "value" : "minecraft:armor_stand"
-            },
-            {
-               "value" : "armor_stand"
-            },
-            {
                "value" : "minecraft:chest_boat"
             },
             {
@@ -4883,6 +4877,12 @@
             },
             {
                "value" : "boat"
+            },
+            {
+               "value" : "minecraft:armor_stand"
+            },
+            {
+               "value" : "armor_stand"
             },
             {
                "value" : "fireball"
@@ -5740,6 +5740,12 @@
                "value" : "armadillo_spawn_egg"
             },
             {
+               "value" : "minecraft:bogged_spawn_egg"
+            },
+            {
+               "value" : "bogged_spawn_egg"
+            },
+            {
                "value" : "minecraft:chorus_fruit"
             },
             {
@@ -6200,6 +6206,12 @@
             },
             {
                "value" : "warped_fungus_on_a_stick"
+            },
+            {
+               "value" : "minecraft:wind_charge"
+            },
+            {
+               "value" : "wind_charge"
             },
             {
                "value" : "minecraft:shears"
@@ -16337,9 +16349,6 @@
                "value" : "minecraft:deepslate_redstone_ore"
             },
             {
-               "value" : "minecraft:jungle_planks"
-            },
-            {
                "value" : "minecraft:spruce_fence_gate"
             },
             {
@@ -16664,12 +16673,6 @@
                "value" : "minecraft:weathered_cut_copper_stairs"
             },
             {
-               "value" : "minecraft:acacia_planks"
-            },
-            {
-               "value" : "minecraft:nether_wart_block"
-            },
-            {
                "value" : "minecraft:nether_brick_fence"
             },
             {
@@ -16794,15 +16797,6 @@
             },
             {
                "value" : "minecraft:cobblestone"
-            },
-            {
-               "value" : "minecraft:polished_deepslate"
-            },
-            {
-               "value" : "minecraft:standing_sign"
-            },
-            {
-               "value" : "minecraft:dark_oak_planks"
             },
             {
                "value" : "minecraft:brown_glazed_terracotta"
@@ -17495,19 +17489,16 @@
                "value" : "minecraft:hard_stained_glass_pane"
             },
             {
-               "value" : "minecraft:element_6"
-            },
-            {
-               "value" : "minecraft:jungle_log"
-            },
-            {
-               "value" : "minecraft:hard_red_stained_glass_pane"
-            },
-            {
                "value" : "minecraft:hard_purple_stained_glass_pane"
             },
             {
                "value" : "minecraft:hard_cyan_stained_glass_pane"
+            },
+            {
+               "value" : "minecraft:polished_blackstone_double_slab"
+            },
+            {
+               "value" : "minecraft:hard_light_gray_stained_glass_pane"
             },
             {
                "value" : "minecraft:hard_light_blue_stained_glass_pane"
@@ -17606,18 +17597,6 @@
                "value" : "minecraft:smithing_table"
             },
             {
-               "value" : "minecraft:birch_boat"
-            },
-            {
-               "value" : "minecraft:music_disc_13"
-            },
-            {
-               "value" : "minecraft:anvil"
-            },
-            {
-               "value" : "minecraft:hard_green_stained_glass_pane"
-            },
-            {
                "value" : "minecraft:blaze_rod"
             },
             {
@@ -17637,12 +17616,6 @@
             },
             {
                "value" : "minecraft:black_shulker_box"
-            },
-            {
-               "value" : "minecraft:polished_blackstone_double_slab"
-            },
-            {
-               "value" : "minecraft:hard_light_gray_stained_glass_pane"
             },
             {
                "value" : "minecraft:granite_stairs"
@@ -17858,18 +17831,6 @@
                "value" : "minecraft:sea_lantern"
             },
             {
-               "value" : "minecraft:candle_cake"
-            },
-            {
-               "value" : "minecraft:polished_deepslate_double_slab"
-            },
-            {
-               "value" : "minecraft:golden_apple"
-            },
-            {
-               "value" : "minecraft:hard_brown_stained_glass_pane"
-            },
-            {
                "value" : "minecraft:jukebox"
             },
             {
@@ -17883,6 +17844,18 @@
             },
             {
                "value" : "minecraft:monster_egg"
+            },
+            {
+               "value" : "minecraft:hard_green_stained_glass_pane"
+            },
+            {
+               "value" : "minecraft:birch_boat"
+            },
+            {
+               "value" : "minecraft:music_disc_13"
+            },
+            {
+               "value" : "minecraft:anvil"
             },
             {
                "value" : "minecraft:log2"
@@ -17955,6 +17928,15 @@
             },
             {
                "value" : "minecraft:purpur_block"
+            },
+            {
+               "value" : "minecraft:polished_deepslate"
+            },
+            {
+               "value" : "minecraft:standing_sign"
+            },
+            {
+               "value" : "minecraft:dark_oak_planks"
             },
             {
                "value" : "minecraft:copper_ore"
@@ -18065,6 +18047,12 @@
                "value" : "minecraft:purple_shulker_box"
             },
             {
+               "value" : "minecraft:birch_log"
+            },
+            {
+               "value" : "minecraft:spruce_planks"
+            },
+            {
                "value" : "minecraft:element_5"
             },
             {
@@ -18089,6 +18077,12 @@
                "value" : "minecraft:stone_block_slab2"
             },
             {
+               "value" : "minecraft:zombie_villager_spawn_egg"
+            },
+            {
+               "value" : "minecraft:birch_planks"
+            },
+            {
                "value" : "minecraft:stonebrick"
             },
             {
@@ -18096,6 +18090,9 @@
             },
             {
                "value" : "minecraft:jungle_fence"
+            },
+            {
+               "value" : "minecraft:jungle_planks"
             },
             {
                "value" : "minecraft:furnace"
@@ -18222,6 +18219,9 @@
             },
             {
                "value" : "minecraft:blackstone_double_slab"
+            },
+            {
+               "value" : "minecraft:bogged_spawn_egg"
             },
             {
                "value" : "minecraft:waxed_copper_door"
@@ -18551,12 +18551,6 @@
                "value" : "minecraft:cherry_hanging_sign"
             },
             {
-               "value" : "minecraft:netherite_hoe"
-            },
-            {
-               "value" : "minecraft:hard_blue_stained_glass_pane"
-            },
-            {
                "value" : "minecraft:pink_stained_glass_pane"
             },
             {
@@ -18731,6 +18725,12 @@
                "value" : "minecraft:frog_spawn_egg"
             },
             {
+               "value" : "minecraft:element_39"
+            },
+            {
+               "value" : "minecraft:spyglass"
+            },
+            {
                "value" : "minecraft:gray_wool"
             },
             {
@@ -18753,6 +18753,12 @@
             },
             {
                "value" : "minecraft:polished_blackstone_brick_slab"
+            },
+            {
+               "value" : "minecraft:nether_wart_block"
+            },
+            {
+               "value" : "minecraft:acacia_planks"
             },
             {
                "value" : "minecraft:feather"
@@ -19280,13 +19286,19 @@
                "value" : "minecraft:dark_oak_sign"
             },
             {
+               "value" : "minecraft:glow_ink_sac"
+            },
+            {
+               "value" : "minecraft:dark_oak_boat"
+            },
+            {
+               "value" : "minecraft:netherite_chestplate"
+            },
+            {
                "value" : "minecraft:hard_yellow_stained_glass"
             },
             {
                "value" : "minecraft:bamboo_chest_raft"
-            },
-            {
-               "value" : "minecraft:wither_spawn_egg"
             },
             {
                "value" : "minecraft:bamboo_sapling"
@@ -19301,13 +19313,7 @@
                "value" : "minecraft:amethyst_shard"
             },
             {
-               "value" : "minecraft:glow_ink_sac"
-            },
-            {
-               "value" : "minecraft:dark_oak_boat"
-            },
-            {
-               "value" : "minecraft:netherite_chestplate"
+               "value" : "minecraft:wither_spawn_egg"
             },
             {
                "value" : "minecraft:warped_planks"
@@ -19458,12 +19464,6 @@
             },
             {
                "value" : "minecraft:wooden_hoe"
-            },
-            {
-               "value" : "minecraft:birch_planks"
-            },
-            {
-               "value" : "minecraft:zombie_villager_spawn_egg"
             },
             {
                "value" : "minecraft:item.flower_pot"
@@ -19817,6 +19817,18 @@
                "value" : "minecraft:gray_carpet"
             },
             {
+               "value" : "minecraft:candle_cake"
+            },
+            {
+               "value" : "minecraft:polished_deepslate_double_slab"
+            },
+            {
+               "value" : "minecraft:hard_brown_stained_glass_pane"
+            },
+            {
+               "value" : "minecraft:golden_apple"
+            },
+            {
                "value" : "minecraft:cut_copper_slab"
             },
             {
@@ -20108,54 +20120,6 @@
                "value" : "minecraft:diamond_boots"
             },
             {
-               "value" : "minecraft:white_shulker_box"
-            },
-            {
-               "value" : "minecraft:command_block"
-            },
-            {
-               "value" : "minecraft:oak_slab"
-            },
-            {
-               "value" : "minecraft:shroomlight"
-            },
-            {
-               "value" : "minecraft:stick"
-            },
-            {
-               "value" : "minecraft:light_blue_dye"
-            },
-            {
-               "value" : "minecraft:smooth_basalt"
-            },
-            {
-               "value" : "minecraft:element_75"
-            },
-            {
-               "value" : "minecraft:polished_granite"
-            },
-            {
-               "value" : "minecraft:comparator"
-            },
-            {
-               "value" : "minecraft:pufferfish"
-            },
-            {
-               "value" : "minecraft:crimson_hyphae"
-            },
-            {
-               "value" : "minecraft:cod"
-            },
-            {
-               "value" : "minecraft:bamboo_fence_gate"
-            },
-            {
-               "value" : "minecraft:wandering_trader_spawn_egg"
-            },
-            {
-               "value" : "minecraft:music_disc_cat"
-            },
-            {
                "value" : "minecraft:mushroom_stew"
             },
             {
@@ -20312,12 +20276,6 @@
                "value" : "minecraft:pumpkin_seeds"
             },
             {
-               "value" : "minecraft:spruce_planks"
-            },
-            {
-               "value" : "minecraft:birch_log"
-            },
-            {
                "value" : "minecraft:chorus_fruit"
             },
             {
@@ -20399,10 +20357,19 @@
                "value" : "minecraft:slime_ball"
             },
             {
-               "value" : "minecraft:element_39"
+               "value" : "minecraft:smooth_basalt"
             },
             {
-               "value" : "minecraft:spyglass"
+               "value" : "minecraft:element_75"
+            },
+            {
+               "value" : "minecraft:polished_granite"
+            },
+            {
+               "value" : "minecraft:pufferfish"
+            },
+            {
+               "value" : "minecraft:comparator"
             },
             {
                "value" : "minecraft:warped_fence"
@@ -20424,6 +20391,21 @@
             },
             {
                "value" : "minecraft:trident"
+            },
+            {
+               "value" : "minecraft:music_disc_cat"
+            },
+            {
+               "value" : "minecraft:crimson_hyphae"
+            },
+            {
+               "value" : "minecraft:cod"
+            },
+            {
+               "value" : "minecraft:bamboo_fence_gate"
+            },
+            {
+               "value" : "minecraft:wandering_trader_spawn_egg"
             },
             {
                "value" : "minecraft:stripped_jungle_wood"
@@ -20513,34 +20495,13 @@
                "value" : "minecraft:poisonous_potato"
             },
             {
-               "value" : "minecraft:tropical_fish"
+               "value" : "minecraft:element_6"
             },
             {
-               "value" : "minecraft:cyan_terracotta"
+               "value" : "minecraft:hard_red_stained_glass_pane"
             },
             {
-               "value" : "minecraft:bone"
-            },
-            {
-               "value" : "minecraft:element_81"
-            },
-            {
-               "value" : "minecraft:purple_concrete"
-            },
-            {
-               "value" : "minecraft:enderman_spawn_egg"
-            },
-            {
-               "value" : "minecraft:sticky_piston_arm_collision"
-            },
-            {
-               "value" : "minecraft:cyan_candle_cake"
-            },
-            {
-               "value" : "minecraft:axolotl_bucket"
-            },
-            {
-               "value" : "minecraft:flint_and_steel"
+               "value" : "minecraft:jungle_log"
             },
             {
                "value" : "minecraft:mud_brick_stairs"
@@ -20567,10 +20528,52 @@
                "value" : "minecraft:carrot"
             },
             {
+               "value" : "minecraft:rib_armor_trim_smithing_template"
+            },
+            {
+               "value" : "minecraft:element_81"
+            },
+            {
+               "value" : "minecraft:purple_concrete"
+            },
+            {
+               "value" : "minecraft:enderman_spawn_egg"
+            },
+            {
+               "value" : "minecraft:sticky_piston_arm_collision"
+            },
+            {
+               "value" : "minecraft:cyan_candle_cake"
+            },
+            {
+               "value" : "minecraft:axolotl_bucket"
+            },
+            {
+               "value" : "minecraft:flint_and_steel"
+            },
+            {
+               "value" : "minecraft:tropical_fish"
+            },
+            {
+               "value" : "minecraft:cyan_terracotta"
+            },
+            {
+               "value" : "minecraft:bone"
+            },
+            {
+               "value" : "minecraft:wind_charge"
+            },
+            {
                "value" : "minecraft:stone_hoe"
             },
             {
                "value" : "minecraft:pink_dye"
+            },
+            {
+               "value" : "minecraft:hard_blue_stained_glass_pane"
+            },
+            {
+               "value" : "minecraft:netherite_hoe"
             },
             {
                "value" : "minecraft:weathered_cut_copper"
@@ -20595,6 +20598,24 @@
             },
             {
                "value" : "minecraft:ghast_spawn_egg"
+            },
+            {
+               "value" : "minecraft:white_shulker_box"
+            },
+            {
+               "value" : "minecraft:command_block"
+            },
+            {
+               "value" : "minecraft:oak_slab"
+            },
+            {
+               "value" : "minecraft:light_blue_dye"
+            },
+            {
+               "value" : "minecraft:shroomlight"
+            },
+            {
+               "value" : "minecraft:stick"
             },
             {
                "value" : "minecraft:netherite_leggings"
@@ -20697,9 +20718,6 @@
             },
             {
                "value" : "minecraft:melon_slice"
-            },
-            {
-               "value" : "minecraft:rib_armor_trim_smithing_template"
             },
             {
                "value" : "minecraft:burn_pottery_sherd"
@@ -25846,12 +25864,6 @@
                "value" : "fireworks_rocket"
             },
             {
-               "value" : "minecraft:armor_stand"
-            },
-            {
-               "value" : "armor_stand"
-            },
-            {
                "value" : "minecraft:evocation_fang"
             },
             {
@@ -25874,6 +25886,12 @@
             },
             {
                "value" : "boat"
+            },
+            {
+               "value" : "minecraft:armor_stand"
+            },
+            {
+               "value" : "armor_stand"
             },
             {
                "value" : "minecraft:leash_knot"
@@ -25946,12 +25964,6 @@
             },
             {
                "value" : "ravager"
-            },
-            {
-               "value" : "minecraft:pillager"
-            },
-            {
-               "value" : "pillager"
             },
             {
                "value" : "minecraft:evocation_illager"
@@ -26122,6 +26134,24 @@
                "value" : "cod"
             },
             {
+               "value" : "minecraft:pillager"
+            },
+            {
+               "value" : "pillager"
+            },
+            {
+               "value" : "minecraft:horse"
+            },
+            {
+               "value" : "horse"
+            },
+            {
+               "value" : "minecraft:bogged"
+            },
+            {
+               "value" : "bogged"
+            },
+            {
                "value" : "minecraft:armadillo"
             },
             {
@@ -26270,12 +26300,6 @@
             },
             {
                "value" : "trader_llama"
-            },
-            {
-               "value" : "minecraft:horse"
-            },
-            {
-               "value" : "horse"
             },
             {
                "value" : "minecraft:sheep"
@@ -35365,7 +35389,7 @@
          "requires_cheats" : true
       }
    ],
-   "minecraft_version" : "1.20.70-beta.22",
+   "minecraft_version" : "1.20.70-beta.24",
    "module_type" : "commands",
    "name" : "mojang-commands-internal"
 }
