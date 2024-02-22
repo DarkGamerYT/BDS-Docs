@@ -34718,7 +34718,7 @@
          "requires_cheats" : true
       }
    ],
-   "minecraft_version" : "1.20.70-beta.24",
+   "minecraft_version" : "1.20.70-beta.25",
    "module_type" : "commands",
    "name" : "mojang-commands"
 }
