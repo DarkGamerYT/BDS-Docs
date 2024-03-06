@@ -13852,6 +13852,9 @@
                "value" : "attacked"
             },
             {
+               "value" : "be_sheared"
+            },
+            {
                "value" : "become_angry"
             },
             {
@@ -14494,7 +14497,34 @@
                "value" : "minecraft:scheduled"
             },
             {
+               "value" : "minecraft:set_ashen_variant"
+            },
+            {
+               "value" : "minecraft:set_black_variant"
+            },
+            {
+               "value" : "minecraft:set_chestnut_variant"
+            },
+            {
+               "value" : "minecraft:set_pale_variant"
+            },
+            {
+               "value" : "minecraft:set_rusty_variant"
+            },
+            {
+               "value" : "minecraft:set_snowy_variant"
+            },
+            {
+               "value" : "minecraft:set_spotted_variant"
+            },
+            {
+               "value" : "minecraft:set_striped_variant"
+            },
+            {
                "value" : "minecraft:set_trap"
+            },
+            {
+               "value" : "minecraft:set_woods_variant"
             },
             {
                "value" : "minecraft:sink"
@@ -15645,6 +15675,12 @@
             },
             {
                "value" : "horse_health"
+            },
+            {
+               "value" : "status_effects"
+            },
+            {
+               "value" : "item_text"
             }
          ]
       },
@@ -34880,7 +34916,7 @@
          "requires_cheats" : true
       }
    ],
-   "minecraft_version" : "1.20.80-beta.20",
+   "minecraft_version" : "1.20.80-beta.21",
    "module_type" : "commands",
    "name" : "mojang-commands"
 }
