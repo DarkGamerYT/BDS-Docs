@@ -6940,6 +6940,10 @@
          ]
       },
       {
+         "name" : "minecraft:heavy_core",
+         "properties" : []
+      },
+      {
          "name" : "minecraft:heavy_weighted_pressure_plate",
          "properties" : [
             {
@@ -10972,7 +10976,7 @@
          "properties" : []
       }
    ],
-   "minecraft_version" : "1.20.80-beta.21",
+   "minecraft_version" : "1.20.80-beta.22",
    "module_type" : "vanilla_data",
    "name" : "mojang-block",
    "vanilla_data_type" : "block"

@@ -10460,7 +10460,7 @@
                "arguments" : [
                   {
                      "details" : null,
-                     "name" : "itemCategory",
+                     "name" : "cooldownCategory",
                      "type" : {
                         "is_bind_type" : false,
                         "is_errorable" : false,
@@ -10555,7 +10555,7 @@
                "arguments" : [
                   {
                      "details" : null,
-                     "name" : "itemCategory",
+                     "name" : "cooldownCategory",
                      "type" : {
                         "is_bind_type" : false,
                         "is_errorable" : false,
@@ -13751,7 +13751,7 @@
    "errors" : [],
    "functions" : [],
    "interfaces" : [],
-   "minecraft_version" : "1.20.80-beta.21",
+   "minecraft_version" : "1.20.80-beta.22",
    "module_type" : "script",
    "name" : "mojang-minecraft",
    "objects" : [

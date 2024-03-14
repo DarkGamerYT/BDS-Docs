@@ -714,6 +714,15 @@
                "name" : "ScriptEventCommandMessageAfterEvent"
             },
             {
+               "name" : "BlockComponentStepOnEvent"
+            },
+            {
+               "name" : "BlockComponentRandomTickEvent"
+            },
+            {
+               "name" : "BlockComponentStepOffEvent"
+            },
+            {
                "name" : "WorldInitializeAfterEvent"
             },
             {
@@ -964,7 +973,7 @@
          "version" : "1.11.0-internal"
       }
    ],
-   "minecraft_version" : "1.20.80-beta.21",
+   "minecraft_version" : "1.20.80-beta.22",
    "module_type" : "after_events_ordering",
    "name" : "engine-after_events_ordering"
 }
