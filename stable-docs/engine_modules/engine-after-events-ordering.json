@@ -844,7 +844,7 @@
          "version" : "1.10.0-internal"
       }
    ],
-   "minecraft_version" : "1.20.71",
+   "minecraft_version" : "1.20.72",
    "module_type" : "after_events_ordering",
    "name" : "engine-after_events_ordering"
 }
