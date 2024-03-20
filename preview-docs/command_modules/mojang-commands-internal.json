@@ -175,12 +175,6 @@
                "value" : "waxed_oxidized_chiseled_copper"
             },
             {
-               "value" : "minecraft:coral_fan_dead"
-            },
-            {
-               "value" : "coral_fan_dead"
-            },
-            {
                "value" : "minecraft:granite"
             },
             {
@@ -283,6 +277,12 @@
                "value" : "yellow_stained_glass_pane"
             },
             {
+               "value" : "minecraft:azure_bluet"
+            },
+            {
+               "value" : "azure_bluet"
+            },
+            {
                "value" : "minecraft:beacon"
             },
             {
@@ -355,6 +355,12 @@
                "value" : "stripped_dark_oak_log"
             },
             {
+               "value" : "minecraft:dead_bubble_coral_fan"
+            },
+            {
+               "value" : "dead_bubble_coral_fan"
+            },
+            {
                "value" : "minecraft:jungle_log"
             },
             {
@@ -391,6 +397,12 @@
                "value" : "gray_carpet"
             },
             {
+               "value" : "minecraft:lily_of_the_valley"
+            },
+            {
+               "value" : "lily_of_the_valley"
+            },
+            {
                "value" : "minecraft:lime_glazed_terracotta"
             },
             {
@@ -401,6 +413,12 @@
             },
             {
                "value" : "trapdoor"
+            },
+            {
+               "value" : "minecraft:dead_brain_coral_fan"
+            },
+            {
+               "value" : "dead_brain_coral_fan"
             },
             {
                "value" : "minecraft:seagrass"
@@ -653,6 +671,12 @@
             },
             {
                "value" : "raw_gold_block"
+            },
+            {
+               "value" : "minecraft:allium"
+            },
+            {
+               "value" : "allium"
             },
             {
                "value" : "minecraft:white_shulker_box"
@@ -1345,12 +1369,6 @@
                "value" : "cyan_carpet"
             },
             {
-               "value" : "minecraft:red_flower"
-            },
-            {
-               "value" : "red_flower"
-            },
-            {
                "value" : "minecraft:smooth_sandstone_stairs"
             },
             {
@@ -1457,6 +1475,12 @@
             },
             {
                "value" : "weathered_copper_grate"
+            },
+            {
+               "value" : "minecraft:poppy"
+            },
+            {
+               "value" : "poppy"
             },
             {
                "value" : "minecraft:tuff_brick_slab"
@@ -1631,6 +1655,12 @@
             },
             {
                "value" : "monster_egg"
+            },
+            {
+               "value" : "minecraft:blue_orchid"
+            },
+            {
+               "value" : "blue_orchid"
             },
             {
                "value" : "minecraft:green_stained_glass_pane"
@@ -1811,6 +1841,12 @@
             },
             {
                "value" : "nether_brick_fence"
+            },
+            {
+               "value" : "minecraft:pink_tulip"
+            },
+            {
+               "value" : "pink_tulip"
             },
             {
                "value" : "minecraft:oak_slab"
@@ -2125,6 +2161,12 @@
                "value" : "oxidized_copper_trapdoor"
             },
             {
+               "value" : "minecraft:white_tulip"
+            },
+            {
+               "value" : "white_tulip"
+            },
+            {
                "value" : "minecraft:lime_concrete"
             },
             {
@@ -2423,6 +2465,12 @@
             },
             {
                "value" : "bamboo_fence_gate"
+            },
+            {
+               "value" : "minecraft:cornflower"
+            },
+            {
+               "value" : "cornflower"
             },
             {
                "value" : "minecraft:chiseled_polished_blackstone"
@@ -3676,6 +3724,12 @@
                "value" : "web"
             },
             {
+               "value" : "minecraft:dead_tube_coral_fan"
+            },
+            {
+               "value" : "dead_tube_coral_fan"
+            },
+            {
                "value" : "minecraft:polished_diorite_stairs"
             },
             {
@@ -3706,6 +3760,12 @@
                "value" : "lime_carpet"
             },
             {
+               "value" : "minecraft:dead_fire_coral_fan"
+            },
+            {
+               "value" : "dead_fire_coral_fan"
+            },
+            {
                "value" : "minecraft:decorated_pot"
             },
             {
@@ -3722,6 +3782,12 @@
             },
             {
                "value" : "polished_blackstone_wall"
+            },
+            {
+               "value" : "minecraft:orange_tulip"
+            },
+            {
+               "value" : "orange_tulip"
             },
             {
                "value" : "minecraft:brown_shulker_box"
@@ -3896,6 +3962,12 @@
             },
             {
                "value" : "orange_carpet"
+            },
+            {
+               "value" : "minecraft:dead_horn_coral_fan"
+            },
+            {
+               "value" : "dead_horn_coral_fan"
             },
             {
                "value" : "minecraft:lantern"
@@ -4132,6 +4204,12 @@
                "value" : "deepslate_iron_ore"
             },
             {
+               "value" : "minecraft:oxeye_daisy"
+            },
+            {
+               "value" : "oxeye_daisy"
+            },
+            {
                "value" : "minecraft:wheat"
             },
             {
@@ -4256,6 +4334,12 @@
             },
             {
                "value" : "light_blue_concrete"
+            },
+            {
+               "value" : "minecraft:red_tulip"
+            },
+            {
+               "value" : "red_tulip"
             },
             {
                "value" : "minecraft:cauldron"
@@ -4937,6 +5021,18 @@
             },
             {
                "value" : "minecraft:coral_fan"
+            },
+            {
+               "value" : "coral_fan_dead"
+            },
+            {
+               "value" : "minecraft:coral_fan_dead"
+            },
+            {
+               "value" : "red_flower"
+            },
+            {
+               "value" : "minecraft:red_flower"
             },
             {
                "value" : "minecraft:chest_boat"
@@ -7672,10 +7768,10 @@
                "value" : "spawn_egg"
             },
             {
-               "value" : "banner_pattern"
+               "value" : "dye"
             },
             {
-               "value" : "dye"
+               "value" : "banner_pattern"
             },
             {
                "value" : "minecraft:jigsaw"
@@ -8186,12 +8282,6 @@
                "value" : "waxed_oxidized_chiseled_copper"
             },
             {
-               "value" : "minecraft:coral_fan_dead"
-            },
-            {
-               "value" : "coral_fan_dead"
-            },
-            {
                "value" : "minecraft:granite"
             },
             {
@@ -8318,6 +8408,12 @@
                "value" : "yellow_stained_glass_pane"
             },
             {
+               "value" : "minecraft:azure_bluet"
+            },
+            {
+               "value" : "azure_bluet"
+            },
+            {
                "value" : "minecraft:beacon"
             },
             {
@@ -8396,6 +8492,12 @@
                "value" : "stripped_dark_oak_log"
             },
             {
+               "value" : "minecraft:dead_bubble_coral_fan"
+            },
+            {
+               "value" : "dead_bubble_coral_fan"
+            },
+            {
                "value" : "minecraft:jungle_log"
             },
             {
@@ -8432,6 +8534,12 @@
                "value" : "gray_carpet"
             },
             {
+               "value" : "minecraft:lily_of_the_valley"
+            },
+            {
+               "value" : "lily_of_the_valley"
+            },
+            {
                "value" : "minecraft:lime_glazed_terracotta"
             },
             {
@@ -8442,6 +8550,12 @@
             },
             {
                "value" : "trapdoor"
+            },
+            {
+               "value" : "minecraft:dead_brain_coral_fan"
+            },
+            {
+               "value" : "dead_brain_coral_fan"
             },
             {
                "value" : "minecraft:seagrass"
@@ -8718,6 +8832,12 @@
             },
             {
                "value" : "raw_gold_block"
+            },
+            {
+               "value" : "minecraft:allium"
+            },
+            {
+               "value" : "allium"
             },
             {
                "value" : "minecraft:white_shulker_box"
@@ -9494,12 +9614,6 @@
                "value" : "cyan_carpet"
             },
             {
-               "value" : "minecraft:red_flower"
-            },
-            {
-               "value" : "red_flower"
-            },
-            {
                "value" : "minecraft:oak_double_slab"
             },
             {
@@ -9630,6 +9744,12 @@
             },
             {
                "value" : "weathered_copper_grate"
+            },
+            {
+               "value" : "minecraft:poppy"
+            },
+            {
+               "value" : "poppy"
             },
             {
                "value" : "minecraft:tuff_brick_slab"
@@ -9834,6 +9954,12 @@
             },
             {
                "value" : "monster_egg"
+            },
+            {
+               "value" : "minecraft:blue_orchid"
+            },
+            {
+               "value" : "blue_orchid"
             },
             {
                "value" : "minecraft:green_stained_glass_pane"
@@ -10044,6 +10170,12 @@
             },
             {
                "value" : "nether_brick_fence"
+            },
+            {
+               "value" : "minecraft:pink_tulip"
+            },
+            {
+               "value" : "pink_tulip"
             },
             {
                "value" : "minecraft:oak_slab"
@@ -10394,6 +10526,12 @@
                "value" : "oxidized_copper_trapdoor"
             },
             {
+               "value" : "minecraft:white_tulip"
+            },
+            {
+               "value" : "white_tulip"
+            },
+            {
                "value" : "minecraft:lime_concrete"
             },
             {
@@ -10740,6 +10878,12 @@
             },
             {
                "value" : "bamboo_fence_gate"
+            },
+            {
+               "value" : "minecraft:cornflower"
+            },
+            {
+               "value" : "cornflower"
             },
             {
                "value" : "minecraft:chiseled_polished_blackstone"
@@ -12188,6 +12332,12 @@
                "value" : "web"
             },
             {
+               "value" : "minecraft:dead_tube_coral_fan"
+            },
+            {
+               "value" : "dead_tube_coral_fan"
+            },
+            {
                "value" : "minecraft:polished_diorite_stairs"
             },
             {
@@ -12218,6 +12368,12 @@
                "value" : "lime_carpet"
             },
             {
+               "value" : "minecraft:dead_fire_coral_fan"
+            },
+            {
+               "value" : "dead_fire_coral_fan"
+            },
+            {
                "value" : "minecraft:decorated_pot"
             },
             {
@@ -12240,6 +12396,12 @@
             },
             {
                "value" : "waxed_exposed_double_cut_copper_slab"
+            },
+            {
+               "value" : "minecraft:orange_tulip"
+            },
+            {
+               "value" : "orange_tulip"
             },
             {
                "value" : "minecraft:brown_shulker_box"
@@ -12438,6 +12600,12 @@
             },
             {
                "value" : "orange_carpet"
+            },
+            {
+               "value" : "minecraft:dead_horn_coral_fan"
+            },
+            {
+               "value" : "dead_horn_coral_fan"
             },
             {
                "value" : "minecraft:lantern"
@@ -12704,6 +12872,12 @@
                "value" : "deepslate_iron_ore"
             },
             {
+               "value" : "minecraft:oxeye_daisy"
+            },
+            {
+               "value" : "oxeye_daisy"
+            },
+            {
                "value" : "minecraft:wheat"
             },
             {
@@ -12852,6 +13026,12 @@
             },
             {
                "value" : "light_blue_concrete"
+            },
+            {
+               "value" : "minecraft:red_tulip"
+            },
+            {
+               "value" : "red_tulip"
             },
             {
                "value" : "minecraft:trip_wire"
@@ -13704,6 +13884,18 @@
             },
             {
                "value" : "minecraft:coral_fan"
+            },
+            {
+               "value" : "coral_fan_dead"
+            },
+            {
+               "value" : "minecraft:coral_fan_dead"
+            },
+            {
+               "value" : "red_flower"
+            },
+            {
+               "value" : "minecraft:red_flower"
             },
             {
                "value" : "lava_cauldron"
@@ -14752,34 +14944,7 @@
                "value" : "minecraft:scheduled"
             },
             {
-               "value" : "minecraft:set_ashen_variant"
-            },
-            {
-               "value" : "minecraft:set_black_variant"
-            },
-            {
-               "value" : "minecraft:set_chestnut_variant"
-            },
-            {
-               "value" : "minecraft:set_pale_variant"
-            },
-            {
-               "value" : "minecraft:set_rusty_variant"
-            },
-            {
-               "value" : "minecraft:set_snowy_variant"
-            },
-            {
-               "value" : "minecraft:set_spotted_variant"
-            },
-            {
-               "value" : "minecraft:set_striped_variant"
-            },
-            {
                "value" : "minecraft:set_trap"
-            },
-            {
-               "value" : "minecraft:set_woods_variant"
             },
             {
                "value" : "minecraft:sink"
@@ -14848,7 +15013,37 @@
                "value" : "minecraft:spawn_wild_adult"
             },
             {
+               "value" : "minecraft:spawn_wild_ashen"
+            },
+            {
                "value" : "minecraft:spawn_wild_baby"
+            },
+            {
+               "value" : "minecraft:spawn_wild_baby_or_adult"
+            },
+            {
+               "value" : "minecraft:spawn_wild_black"
+            },
+            {
+               "value" : "minecraft:spawn_wild_chestnut"
+            },
+            {
+               "value" : "minecraft:spawn_wild_pale"
+            },
+            {
+               "value" : "minecraft:spawn_wild_rusty"
+            },
+            {
+               "value" : "minecraft:spawn_wild_snowy"
+            },
+            {
+               "value" : "minecraft:spawn_wild_spotted"
+            },
+            {
+               "value" : "minecraft:spawn_wild_striped"
+            },
+            {
+               "value" : "minecraft:spawn_wild_woods"
             },
             {
                "value" : "minecraft:spawn_with_pillager_captain_rider"
@@ -15691,6 +15886,9 @@
                "value" : "?"
             },
             {
+               "value" : "hud"
+            },
+            {
                "value" : "inputpermission"
             },
             {
@@ -15844,9 +16042,6 @@
                "value" : "recipe"
             },
             {
-               "value" : "hud"
-            },
-            {
                "value" : "volumearea"
             },
             {
@@ -15885,10 +16080,10 @@
          "name" : "HudVisibility",
          "values" : [
             {
-               "value" : "reset"
+               "value" : "hide"
             },
             {
-               "value" : "hide"
+               "value" : "reset"
             }
          ]
       },
@@ -16604,9 +16799,6 @@
                "value" : "minecraft:bamboo_mosaic_stairs"
             },
             {
-               "value" : "minecraft:exposed_cut_copper"
-            },
-            {
                "value" : "minecraft:wither_rose"
             },
             {
@@ -16767,9 +16959,6 @@
             },
             {
                "value" : "minecraft:glass_pane"
-            },
-            {
-               "value" : "minecraft:dark_oak_stairs"
             },
             {
                "value" : "minecraft:chiseled_polished_blackstone"
@@ -17648,9 +17837,6 @@
                "value" : "minecraft:magenta_candle"
             },
             {
-               "value" : "minecraft:orange_candle"
-            },
-            {
                "value" : "minecraft:candle"
             },
             {
@@ -17750,28 +17936,19 @@
                "value" : "minecraft:hard_orange_stained_glass"
             },
             {
+               "value" : "minecraft:dark_oak_wood"
+            },
+            {
                "value" : "minecraft:purple_candle"
             },
             {
                "value" : "minecraft:stripped_acacia_wood"
             },
             {
-               "value" : "minecraft:skull_pottery_sherd"
+               "value" : "minecraft:stripped_jungle_wood"
             },
             {
-               "value" : "minecraft:green_concrete"
-            },
-            {
-               "value" : "minecraft:acacia_wood"
-            },
-            {
-               "value" : "minecraft:dragon_breath"
-            },
-            {
-               "value" : "minecraft:light_blue_concrete_powder"
-            },
-            {
-               "value" : "minecraft:stripped_spruce_wood"
+               "value" : "minecraft:birch_wood"
             },
             {
                "value" : "minecraft:sculk_shrieker"
@@ -17921,9 +18098,6 @@
                "value" : "minecraft:black_stained_glass"
             },
             {
-               "value" : "minecraft:birch_wood"
-            },
-            {
                "value" : "minecraft:red_stained_glass"
             },
             {
@@ -17984,6 +18158,15 @@
                "value" : "minecraft:pink_concrete_powder"
             },
             {
+               "value" : "minecraft:stripped_spruce_wood"
+            },
+            {
+               "value" : "minecraft:dragon_breath"
+            },
+            {
+               "value" : "minecraft:light_blue_concrete_powder"
+            },
+            {
                "value" : "minecraft:fire_charge"
             },
             {
@@ -17991,6 +18174,15 @@
             },
             {
                "value" : "minecraft:concrete"
+            },
+            {
+               "value" : "minecraft:acacia_wood"
+            },
+            {
+               "value" : "minecraft:skull_pottery_sherd"
+            },
+            {
+               "value" : "minecraft:green_concrete"
             },
             {
                "value" : "minecraft:light_gray_concrete"
@@ -18080,12 +18272,6 @@
                "value" : "minecraft:dead_horn_coral"
             },
             {
-               "value" : "minecraft:mule_spawn_egg"
-            },
-            {
-               "value" : "minecraft:dead_fire_coral"
-            },
-            {
                "value" : "minecraft:cod_spawn_egg"
             },
             {
@@ -18116,12 +18302,6 @@
                "value" : "minecraft:tube_coral"
             },
             {
-               "value" : "minecraft:netherite_ingot"
-            },
-            {
-               "value" : "minecraft:stripped_birch_wood"
-            },
-            {
                "value" : "minecraft:element_41"
             },
             {
@@ -18150,6 +18330,18 @@
             },
             {
                "value" : "minecraft:oak_planks"
+            },
+            {
+               "value" : "minecraft:gold_nugget"
+            },
+            {
+               "value" : "minecraft:orange_tulip"
+            },
+            {
+               "value" : "minecraft:orange_candle"
+            },
+            {
+               "value" : "minecraft:azure_bluet"
             },
             {
                "value" : "minecraft:yellow_flower"
@@ -18218,6 +18410,9 @@
                "value" : "minecraft:unpowered_comparator"
             },
             {
+               "value" : "minecraft:lily_of_the_valley"
+            },
+            {
                "value" : "minecraft:jungle_leaves"
             },
             {
@@ -18255,6 +18450,33 @@
             },
             {
                "value" : "minecraft:sea_pickle"
+            },
+            {
+               "value" : "minecraft:mule_spawn_egg"
+            },
+            {
+               "value" : "minecraft:dead_fire_coral"
+            },
+            {
+               "value" : "minecraft:dead_horn_coral_fan"
+            },
+            {
+               "value" : "minecraft:tropical_fish"
+            },
+            {
+               "value" : "minecraft:dead_fire_coral_fan"
+            },
+            {
+               "value" : "minecraft:element_58"
+            },
+            {
+               "value" : "minecraft:netherbrick"
+            },
+            {
+               "value" : "minecraft:dead_bubble_coral_fan"
+            },
+            {
+               "value" : "minecraft:dead_tube_coral_fan"
             },
             {
                "value" : "minecraft:coral_fan"
@@ -18405,6 +18627,9 @@
             },
             {
                "value" : "minecraft:light_blue_wool"
+            },
+            {
+               "value" : "minecraft:pink_tulip"
             },
             {
                "value" : "minecraft:soul_sand"
@@ -18588,6 +18813,15 @@
             },
             {
                "value" : "minecraft:diorite"
+            },
+            {
+               "value" : "minecraft:arrow"
+            },
+            {
+               "value" : "minecraft:warped_fungus_on_a_stick"
+            },
+            {
+               "value" : "minecraft:poppy"
             },
             {
                "value" : "minecraft:granite"
@@ -18776,10 +19010,10 @@
                "value" : "minecraft:cherry_slab"
             },
             {
-               "value" : "minecraft:brick"
+               "value" : "minecraft:hard_light_blue_stained_glass"
             },
             {
-               "value" : "minecraft:hard_light_blue_stained_glass"
+               "value" : "minecraft:brick"
             },
             {
                "value" : "minecraft:mud_brick_slab"
@@ -18834,18 +19068,6 @@
             },
             {
                "value" : "minecraft:cherry_sign"
-            },
-            {
-               "value" : "minecraft:tuff_bricks"
-            },
-            {
-               "value" : "minecraft:warden_spawn_egg"
-            },
-            {
-               "value" : "minecraft:chemistry_table"
-            },
-            {
-               "value" : "minecraft:dark_oak_wood"
             },
             {
                "value" : "minecraft:echo_shard"
@@ -19013,6 +19235,9 @@
                "value" : "minecraft:polished_blackstone_slab"
             },
             {
+               "value" : "minecraft:blue_orchid"
+            },
+            {
                "value" : "minecraft:polished_blackstone_brick_slab"
             },
             {
@@ -19041,12 +19266,6 @@
             },
             {
                "value" : "minecraft:waxed_exposed_cut_copper_slab"
-            },
-            {
-               "value" : "minecraft:arrow"
-            },
-            {
-               "value" : "minecraft:warped_fungus_on_a_stick"
             },
             {
                "value" : "minecraft:raw_copper"
@@ -19109,10 +19328,10 @@
                "value" : "minecraft:glow_stick"
             },
             {
-               "value" : "minecraft:cooked_chicken"
+               "value" : "minecraft:wood"
             },
             {
-               "value" : "minecraft:stripped_dark_oak_wood"
+               "value" : "minecraft:oxeye_daisy"
             },
             {
                "value" : "minecraft:heart_pottery_sherd"
@@ -19346,6 +19565,9 @@
                "value" : "minecraft:black_concrete"
             },
             {
+               "value" : "minecraft:allium"
+            },
+            {
                "value" : "minecraft:leather_horse_armor"
             },
             {
@@ -19365,12 +19587,6 @@
             },
             {
                "value" : "minecraft:witch_spawn_egg"
-            },
-            {
-               "value" : "minecraft:element_58"
-            },
-            {
-               "value" : "minecraft:netherbrick"
             },
             {
                "value" : "minecraft:quartz"
@@ -19622,9 +19838,6 @@
                "value" : "minecraft:breeze_spawn_egg"
             },
             {
-               "value" : "minecraft:wood"
-            },
-            {
                "value" : "minecraft:element_95"
             },
             {
@@ -19673,10 +19886,10 @@
                "value" : "minecraft:phantom_spawn_egg"
             },
             {
-               "value" : "minecraft:cooked_rabbit"
+               "value" : "minecraft:tnt"
             },
             {
-               "value" : "minecraft:tnt"
+               "value" : "minecraft:cooked_rabbit"
             },
             {
                "value" : "minecraft:danger_pottery_sherd"
@@ -19764,6 +19977,12 @@
             },
             {
                "value" : "minecraft:zombie_horse_spawn_egg"
+            },
+            {
+               "value" : "minecraft:stripped_birch_wood"
+            },
+            {
+               "value" : "minecraft:netherite_ingot"
             },
             {
                "value" : "minecraft:waxed_cut_copper_slab"
@@ -19949,6 +20168,12 @@
                "value" : "minecraft:pillager_spawn_egg"
             },
             {
+               "value" : "minecraft:stripped_dark_oak_wood"
+            },
+            {
+               "value" : "minecraft:cooked_chicken"
+            },
+            {
                "value" : "minecraft:beetroot"
             },
             {
@@ -19961,9 +20186,6 @@
                "value" : "minecraft:potion"
             },
             {
-               "value" : "minecraft:gold_nugget"
-            },
-            {
                "value" : "minecraft:cow_spawn_egg"
             },
             {
@@ -19971,6 +20193,9 @@
             },
             {
                "value" : "minecraft:vine"
+            },
+            {
+               "value" : "minecraft:red_tulip"
             },
             {
                "value" : "minecraft:lime_shulker_box"
@@ -20498,6 +20723,12 @@
                "value" : "minecraft:iron_helmet"
             },
             {
+               "value" : "minecraft:exposed_cut_copper"
+            },
+            {
+               "value" : "minecraft:cornflower"
+            },
+            {
                "value" : "minecraft:double_stone_block_slab"
             },
             {
@@ -20702,9 +20933,6 @@
                "value" : "minecraft:wandering_trader_spawn_egg"
             },
             {
-               "value" : "minecraft:stripped_jungle_wood"
-            },
-            {
                "value" : "minecraft:slime_spawn_egg"
             },
             {
@@ -20825,6 +21053,12 @@
                "value" : "minecraft:enderman_spawn_egg"
             },
             {
+               "value" : "minecraft:dark_oak_stairs"
+            },
+            {
+               "value" : "minecraft:white_tulip"
+            },
+            {
                "value" : "minecraft:sticky_piston_arm_collision"
             },
             {
@@ -20834,10 +21068,10 @@
                "value" : "minecraft:axolotl_bucket"
             },
             {
-               "value" : "minecraft:flint_and_steel"
+               "value" : "minecraft:dead_brain_coral_fan"
             },
             {
-               "value" : "minecraft:tropical_fish"
+               "value" : "minecraft:flint_and_steel"
             },
             {
                "value" : "minecraft:cyan_terracotta"
@@ -20853,6 +21087,15 @@
             },
             {
                "value" : "minecraft:pink_dye"
+            },
+            {
+               "value" : "minecraft:tuff_bricks"
+            },
+            {
+               "value" : "minecraft:chemistry_table"
+            },
+            {
+               "value" : "minecraft:warden_spawn_egg"
             },
             {
                "value" : "minecraft:hard_blue_stained_glass_pane"
@@ -21213,7 +21456,13 @@
                "value" : "minecraft:waxing_weathered_copper_grate"
             },
             {
+               "value" : "minecraft:stonecutter_tuff_to_tuff_bricks"
+            },
+            {
                "value" : "minecraft:flow_armor_trim_smithing_template_duplicate"
+            },
+            {
+               "value" : "minecraft:stonecutter_oxidized_copper_to_oxidized_chiseled_copper"
             },
             {
                "value" : "minecraft:copper_bulb"
@@ -21222,7 +21471,19 @@
                "value" : "minecraft:waxing_oxidized_copper_trapdoor"
             },
             {
+               "value" : "minecraft:stonecutter_tuff_to_tuff_brick_stairs"
+            },
+            {
+               "value" : "minecraft:stonecutter_waxed_exposed_cut_copper_to_waxed_exposed_chiseled_copper"
+            },
+            {
                "value" : "minecraft:mace"
+            },
+            {
+               "value" : "minecraft:stonecutter_tuff_to_chiseled_tuff"
+            },
+            {
+               "value" : "minecraft:stonecutter_waxed_cut_copper_to_waxed_chiseled_copper"
             },
             {
                "value" : "minecraft:crafting_table_waxed_exposed_copper_trapdoor"
@@ -21231,10 +21492,16 @@
                "value" : "minecraft:oxidized_copper_bulb"
             },
             {
+               "value" : "minecraft:stonecutter_waxed_weathered_copper_to_waxed_weathered_chiseled_copper"
+            },
+            {
                "value" : "minecraft:waxing_oxidized_copper_bulb"
             },
             {
                "value" : "minecraft:waxing_copper_grate"
+            },
+            {
+               "value" : "minecraft:stonecutter_oxidized_copper_to_oxidized_copper_grate"
             },
             {
                "value" : "minecraft:oxidized_copper_grate"
@@ -21264,6 +21531,9 @@
                "value" : "minecraft:exposed_copper_door"
             },
             {
+               "value" : "minecraft:stonecutter_tuff_to_polished_tuff"
+            },
+            {
                "value" : "minecraft:crafting_table_waxed_copper_door"
             },
             {
@@ -21271,6 +21541,9 @@
             },
             {
                "value" : "minecraft:bolt_armor_trim_smithing_template_duplicate_waxed"
+            },
+            {
+               "value" : "minecraft:stonecutter_tuff_to_chiseled_tuff_bricks"
             },
             {
                "value" : "minecraft:tuff_wall"
@@ -21288,19 +21561,43 @@
                "value" : "minecraft:tuff_brick_stairs"
             },
             {
+               "value" : "minecraft:stonecutter_waxed_weathered_cut_copper_to_waxed_weathered_chiseled_copper"
+            },
+            {
+               "value" : "minecraft:stonecutter_weathered_cut_copper_to_weathered_chiseled_copper"
+            },
+            {
                "value" : "minecraft:weathered_copper_trapdoor"
             },
             {
                "value" : "minecraft:crafting_table_waxed_weathered_copper_trapdoor"
             },
             {
+               "value" : "minecraft:stonecutter_weathered_copper_to_weathered_chiseled_copper"
+            },
+            {
+               "value" : "minecraft:stonecutter_waxed_oxidized_copper_to_waxed_oxidized_chiseled_copper"
+            },
+            {
                "value" : "minecraft:copper_door"
+            },
+            {
+               "value" : "minecraft:stonecutter_waxed_oxidized_copper_to_waxed_oxidized_copper_grate"
+            },
+            {
+               "value" : "minecraft:stonecutter_tuff_to_tuff_brick_slab"
+            },
+            {
+               "value" : "minecraft:stonecutter_tuff_to_tuff_wall"
             },
             {
                "value" : "minecraft:tuff_brick_wall"
             },
             {
                "value" : "minecraft:wind_charge"
+            },
+            {
+               "value" : "minecraft:stonecutter_cut_copper_to_chiseled_copper"
             },
             {
                "value" : "minecraft:chiseled_tuff"
@@ -21312,10 +21609,22 @@
                "value" : "minecraft:waxing_exposed_copper_grate"
             },
             {
+               "value" : "minecraft:stonecutter_tuff_to_tuff_stairs"
+            },
+            {
+               "value" : "minecraft:stonecutter_waxed_exposed_copper_to_waxed_exposed_chiseled_copper"
+            },
+            {
+               "value" : "minecraft:stonecutter_copper_block_to_chiseled_copper"
+            },
+            {
                "value" : "minecraft:waxing_weathered_copper_bulb"
             },
             {
                "value" : "minecraft:waxed_oxidized_copper_bulb"
+            },
+            {
+               "value" : "minecraft:stonecutter_tuff_to_polished_tuff_stairs"
             },
             {
                "value" : "minecraft:waxing_weathered_copper_door"
@@ -21327,13 +21636,22 @@
                "value" : "minecraft:copper_grate"
             },
             {
+               "value" : "minecraft:stonecutter_exposed_copper_to_exposed_chiseled_copper"
+            },
+            {
                "value" : "minecraft:waxed_weathered_copper_bulb"
             },
             {
                "value" : "minecraft:tuff_stairs"
             },
             {
+               "value" : "minecraft:stonecutter_waxed_exposed_copper_to_waxed_exposed_copper_grate"
+            },
+            {
                "value" : "minecraft:crafting_table_waxed_exposed_copper_door"
+            },
+            {
+               "value" : "minecraft:stonecutter_waxed_weathered_copper_to_waxed_weathered_copper_grate"
             },
             {
                "value" : "minecraft:crafting_table_waxed_oxidized_copper_trapdoor"
@@ -21357,7 +21675,19 @@
                "value" : "minecraft:polished_tuff_wall"
             },
             {
+               "value" : "minecraft:stonecutter_waxed_copper_to_waxed_copper_grate"
+            },
+            {
+               "value" : "minecraft:stonecutter_tuff_to_polished_tuff_slab"
+            },
+            {
+               "value" : "minecraft:stonecutter_waxed_oxidized_cut_copper_to_waxed_oxidized_chiseled_copper"
+            },
+            {
                "value" : "minecraft:tuff_brick_slab"
+            },
+            {
+               "value" : "minecraft:stonecutter_oxidized_cut_copper_to_oxidized_chiseled_copper"
             },
             {
                "value" : "minecraft:exposed_copper_bulb"
@@ -21369,6 +21699,9 @@
                "value" : "minecraft:oxidized_copper_door"
             },
             {
+               "value" : "minecraft:stonecutter_tuff_to_polished_tuff_wall"
+            },
+            {
                "value" : "minecraft:tuff_bricks"
             },
             {
@@ -21378,10 +21711,19 @@
                "value" : "minecraft:crafting_table_chiseled_copper"
             },
             {
+               "value" : "minecraft:stonecutter_copper_block_to_copper_grate"
+            },
+            {
+               "value" : "minecraft:stonecutter_exposed_copper_to_exposed_copper_grate"
+            },
+            {
                "value" : "minecraft:tuff_slab"
             },
             {
                "value" : "minecraft:crafting_table_waxed_weathered_copper_door"
+            },
+            {
+               "value" : "minecraft:stonecutter_waxed_copper_to_waxed_chiseled_copper"
             },
             {
                "value" : "minecraft:polished_tuff_slab"
@@ -21393,7 +21735,13 @@
                "value" : "minecraft:weathered_copper_grate"
             },
             {
+               "value" : "minecraft:stonecutter_weathered_copper_to_weathered_copper_grate"
+            },
+            {
                "value" : "minecraft:waxing_oxidized_copper_grate"
+            },
+            {
+               "value" : "minecraft:stonecutter_tuff_to_tuff_slab"
             },
             {
                "value" : "minecraft:waxing_exposed_copper_bulb"
@@ -21402,13 +21750,55 @@
                "value" : "minecraft:waxed_copper_bulb"
             },
             {
+               "value" : "minecraft:stonecutter_tuff_to_tuff_brick_wall"
+            },
+            {
+               "value" : "minecraft:stonecutter_exposed_cut_copper_to_exposed_chiseled_copper"
+            },
+            {
                "value" : "minecraft:crafter"
+            },
+            {
+               "value" : "minecraft:light_blue_dye_from_blue_orchid"
             },
             {
                "value" : "minecraft:wolf_armor"
             },
             {
+               "value" : "minecraft:blue_dye_from_cornflower"
+            },
+            {
+               "value" : "minecraft:white_dye_from_lily_of_the_valley"
+            },
+            {
+               "value" : "minecraft:magenta_dye_from_allium"
+            },
+            {
+               "value" : "minecraft:light_gray_dye_from_oxeye_daisy"
+            },
+            {
+               "value" : "minecraft:light_gray_dye_from_azure_bluet"
+            },
+            {
+               "value" : "minecraft:red_dye_from_poppy"
+            },
+            {
                "value" : "minecraft:WorkBench_recipeId_from_oak"
+            },
+            {
+               "value" : "minecraft:banner_pattern_flower"
+            },
+            {
+               "value" : "minecraft:light_gray_dye_from_white_tulip"
+            },
+            {
+               "value" : "minecraft:pink_dye_from_pink_tulip"
+            },
+            {
+               "value" : "minecraft:red_dye_from_tulip"
+            },
+            {
+               "value" : "minecraft:orange_dye_from_orange_tulip"
             },
             {
                "value" : "minecraft:spruce_planks_from_wood"
@@ -21657,6 +22047,9 @@
                "value" : "minecraft:purple_carpet"
             },
             {
+               "value" : "minecraft:stonecutter_polished_diorite"
+            },
+            {
                "value" : "minecraft:honeycomb_block"
             },
             {
@@ -21676,6 +22069,9 @@
             },
             {
                "value" : "minecraft:cobbled_deepslate_stairs"
+            },
+            {
+               "value" : "minecraft:stonecutter_chiseled_from_polished_blackstone"
             },
             {
                "value" : "minecraft:acacia_fence"
@@ -21723,10 +22119,10 @@
                "value" : "minecraft:stonecutter"
             },
             {
-               "value" : "minecraft:light_blue_dye_from_blue_orchid"
+               "value" : "minecraft:polished_blackstone_bricks"
             },
             {
-               "value" : "minecraft:polished_blackstone_bricks"
+               "value" : "minecraft:stonecutter_waxed_oxidized_cut_copper_to_cut_copper_stairs"
             },
             {
                "value" : "minecraft:blaze_powder"
@@ -21747,6 +22143,9 @@
                "value" : "minecraft:iron_sword"
             },
             {
+               "value" : "minecraft:stonecutter_polished_granite"
+            },
+            {
                "value" : "minecraft:light_gray_candle"
             },
             {
@@ -21756,10 +22155,16 @@
                "value" : "minecraft:acacia_hanging_sign"
             },
             {
+               "value" : "minecraft:deepslate_tiles_from_polished_deepslate_stonecutting"
+            },
+            {
                "value" : "minecraft:amethyst_block"
             },
             {
                "value" : "minecraft:chain"
+            },
+            {
+               "value" : "minecraft:stonecutter_stonebrick_chiseled"
             },
             {
                "value" : "minecraft:pink_carpet"
@@ -21780,10 +22185,22 @@
                "value" : "minecraft:iron_block"
             },
             {
+               "value" : "minecraft:stonecutter_stairs_from_polished_blackstone"
+            },
+            {
                "value" : "minecraft:oak_stairs"
             },
             {
+               "value" : "minecraft:stonecutter_polished_slab_from_blackstone"
+            },
+            {
+               "value" : "minecraft:stonecutter_wall_from_polished_blackstone"
+            },
+            {
                "value" : "minecraft:mangrove_trapdoor"
+            },
+            {
+               "value" : "minecraft:stonecutter_slab_from_polished_blackstone"
             },
             {
                "value" : "minecraft:mangrove_wood"
@@ -21813,6 +22230,12 @@
                "value" : "minecraft:nether_wart_block"
             },
             {
+               "value" : "minecraft:stonecutter_smooth_double_stone_slab"
+            },
+            {
+               "value" : "minecraft:stonecutter_exposed_copper_to_cut_copper_stairs"
+            },
+            {
                "value" : "minecraft:fletching_table"
             },
             {
@@ -21822,7 +22245,16 @@
                "value" : "minecraft:light_blue_carpet"
             },
             {
+               "value" : "minecraft:stonecutter_cobbledouble_stone_slab"
+            },
+            {
                "value" : "minecraft:chiseled_nether_bricks"
+            },
+            {
+               "value" : "minecraft:stonecutter_prismarine_stairs"
+            },
+            {
+               "value" : "minecraft:stonecutter_sandstone_stairs"
             },
             {
                "value" : "minecraft:honey_bottle_to_sugar"
@@ -21849,6 +22281,9 @@
                "value" : "minecraft:chiseled_polished_blackstone"
             },
             {
+               "value" : "minecraft:stonecutter_quartz_lines"
+            },
+            {
                "value" : "minecraft:dark_oak_planks_from_stripped"
             },
             {
@@ -21861,7 +22296,13 @@
                "value" : "minecraft:diamond_axe"
             },
             {
+               "value" : "minecraft:stonecutter_dark_prismarine_stairs"
+            },
+            {
                "value" : "minecraft:smooth_sandstone_stairs"
+            },
+            {
+               "value" : "minecraft:stonecutter_sandstone_heiroglyphs"
             },
             {
                "value" : "minecraft:birch_door"
@@ -21876,6 +22317,12 @@
                "value" : "minecraft:lightning_rod"
             },
             {
+               "value" : "minecraft:stonecutter_oxidized_copper_to_cut_copper"
+            },
+            {
+               "value" : "minecraft:stonecutter_weathered_copper_to_cut_copper_stairs"
+            },
+            {
                "value" : "minecraft:prismarine_stairs_bricks"
             },
             {
@@ -21885,10 +22332,16 @@
                "value" : "minecraft:nether_brick_stairs"
             },
             {
+               "value" : "minecraft:stonecutter_mossy_cobblestone_stairs"
+            },
+            {
                "value" : "minecraft:rail"
             },
             {
                "value" : "minecraft:light_gray_dye_from_ink_bonemeal"
+            },
+            {
+               "value" : "minecraft:stonecutter_stonebrick_slab2"
             },
             {
                "value" : "minecraft:bamboo_planks_from_stripped"
@@ -21912,10 +22365,19 @@
                "value" : "minecraft:bamboo_pressure_plate"
             },
             {
+               "value" : "minecraft:stonecutter_waxed_weathered_cut_copper_to_cut_copper_stairs"
+            },
+            {
                "value" : "minecraft:gray_dye_from_black_bonemeal"
             },
             {
+               "value" : "minecraft:deepslate_brick_wall_from_polished_deepslate_stonecutting"
+            },
+            {
                "value" : "minecraft:iron_ingot_from_block"
+            },
+            {
+               "value" : "minecraft:stonecutter_andesite_stairs"
             },
             {
                "value" : "minecraft:cherry_slab"
@@ -21942,6 +22404,15 @@
                "value" : "minecraft:conduit"
             },
             {
+               "value" : "minecraft:stonecutter_cut_copper_to_cut_copper_stairs"
+            },
+            {
+               "value" : "minecraft:stonecutter_sandstone_cut"
+            },
+            {
+               "value" : "minecraft:stonecutter_chiseled_polished_from_blackstone"
+            },
+            {
                "value" : "minecraft:wooden_shovel"
             },
             {
@@ -21952,6 +22423,12 @@
             },
             {
                "value" : "minecraft:gray_carpet_from_white"
+            },
+            {
+               "value" : "minecraft:stonecutter_red_nether_brick_stairs"
+            },
+            {
+               "value" : "minecraft:chiseled_deepslate_from_cobbled_deepslate_stonecutting"
             },
             {
                "value" : "minecraft:cyan_dye"
@@ -21993,6 +22470,12 @@
                "value" : "minecraft:stonebrick"
             },
             {
+               "value" : "minecraft:deepslate_tile_stairs_from_deepslate_tiles_stonecutting"
+            },
+            {
+               "value" : "minecraft:stonecutter_quartz_chiseled"
+            },
+            {
                "value" : "minecraft:diamond_shovel"
             },
             {
@@ -22000,6 +22483,9 @@
             },
             {
                "value" : "minecraft:polished_blackstone_brick_stairs"
+            },
+            {
+               "value" : "minecraft:stonecutter_cobblestone_stairs"
             },
             {
                "value" : "minecraft:glass_bottle"
@@ -22018,6 +22504,9 @@
             },
             {
                "value" : "minecraft:brown_dye_from_cocoa_beans"
+            },
+            {
+               "value" : "minecraft:cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting"
             },
             {
                "value" : "minecraft:chest_minecart"
@@ -22056,6 +22545,9 @@
                "value" : "minecraft:mossy_cobblestone_wall"
             },
             {
+               "value" : "minecraft:stonecutter_stonebrick_wall2"
+            },
+            {
                "value" : "minecraft:warped_fence"
             },
             {
@@ -22074,10 +22566,10 @@
                "value" : "minecraft:light_weighted_pressure_plate"
             },
             {
-               "value" : "minecraft:lime_carpet"
+               "value" : "minecraft:stonecutter_prismarine_brick_slab"
             },
             {
-               "value" : "minecraft:blue_dye_from_cornflower"
+               "value" : "minecraft:lime_carpet"
             },
             {
                "value" : "minecraft:lime_stained_hardened_clay"
@@ -22107,6 +22599,9 @@
                "value" : "minecraft:polished_basalt"
             },
             {
+               "value" : "minecraft:deepslate_tile_stairs_from_cobbled_deepslate_stonecutting"
+            },
+            {
                "value" : "minecraft:cyan_carpet_from_white"
             },
             {
@@ -22117,6 +22612,9 @@
             },
             {
                "value" : "minecraft:mangrove_button"
+            },
+            {
+               "value" : "minecraft:stonecutter_polished_diorite_slab"
             },
             {
                "value" : "minecraft:vex_armor_trim_smithing_template_duplicate"
@@ -22153,6 +22651,9 @@
             },
             {
                "value" : "minecraft:jungle_fence_gate"
+            },
+            {
+               "value" : "minecraft:stonecutter_endbricks"
             },
             {
                "value" : "minecraft:warped_slab"
@@ -22206,6 +22707,9 @@
                "value" : "minecraft:ingots_from_copper"
             },
             {
+               "value" : "minecraft:stonecutter_stonebrick_wall"
+            },
+            {
                "value" : "minecraft:cartography_table"
             },
             {
@@ -22216,6 +22720,15 @@
             },
             {
                "value" : "minecraft:blackstone_stairs"
+            },
+            {
+               "value" : "minecraft:stonecutter_chiseled_nether_bricks_from_nether_brick"
+            },
+            {
+               "value" : "minecraft:stonecutter_red_sanddouble_stone_slab"
+            },
+            {
+               "value" : "minecraft:stonecutter_brick_stairs_from_polished_blackstone"
             },
             {
                "value" : "minecraft:iron_trapdoor"
@@ -22230,10 +22743,22 @@
                "value" : "minecraft:purple_carpet_from_white"
             },
             {
+               "value" : "minecraft:stonecutter_polished_wall_from_blackstone"
+            },
+            {
                "value" : "minecraft:deepslate_bricks"
             },
             {
                "value" : "minecraft:lapis_lazuli"
+            },
+            {
+               "value" : "minecraft:stonecutter_red_nether_brick_slab"
+            },
+            {
+               "value" : "minecraft:stonecutter_stonebrick_stairs2"
+            },
+            {
+               "value" : "minecraft:stonecutter_granite_slab"
             },
             {
                "value" : "minecraft:shulker_box"
@@ -22242,13 +22767,25 @@
                "value" : "minecraft:yellow_concrete_powder"
             },
             {
+               "value" : "minecraft:stonecutter_oxidized_cut_copper_to_cut_copper_stairs"
+            },
+            {
                "value" : "minecraft:crafting_table_exposed_cut_copper_stairs"
+            },
+            {
+               "value" : "minecraft:stonecutter_nether_brick_slab"
             },
             {
                "value" : "minecraft:brewing_stand"
             },
             {
                "value" : "minecraft:waxing_cut_copper_slab"
+            },
+            {
+               "value" : "minecraft:stonecutter_nether_brick_stairs"
+            },
+            {
+               "value" : "minecraft:stonecutter_waxed_exposed_cut_copper_to_cut_copper_stairs"
             },
             {
                "value" : "minecraft:warped_door"
@@ -22263,6 +22800,12 @@
                "value" : "minecraft:white_stained_hardened_clay_from_bonemeal"
             },
             {
+               "value" : "minecraft:stonecutter_endbrick_stairs"
+            },
+            {
+               "value" : "minecraft:stonecutter_brick_slab_from_polished_blackstone"
+            },
+            {
                "value" : "minecraft:pink_candle"
             },
             {
@@ -22275,6 +22818,9 @@
                "value" : "minecraft:stone_axe"
             },
             {
+               "value" : "minecraft:stonecutter_nether_brick_wall"
+            },
+            {
                "value" : "minecraft:polished_granite_stairs"
             },
             {
@@ -22285,6 +22831,9 @@
             },
             {
                "value" : "minecraft:magenta_carpet_from_white"
+            },
+            {
+               "value" : "minecraft:deepslate_tile_wall_from_polished_deepslate_stonecutting"
             },
             {
                "value" : "minecraft:brown_candle"
@@ -22308,10 +22857,16 @@
                "value" : "minecraft:birch_planks_from_stripped"
             },
             {
+               "value" : "minecraft:polished_deepslate_from_cobbled_deepslate_stonecutting"
+            },
+            {
                "value" : "minecraft:stone_shovel"
             },
             {
                "value" : "minecraft:golden_leggings"
+            },
+            {
+               "value" : "minecraft:stonecutter_polished_brick_wall_from_blackstone"
             },
             {
                "value" : "minecraft:snow_layer"
@@ -22320,7 +22875,7 @@
                "value" : "minecraft:lime_dye_from_bonemeal"
             },
             {
-               "value" : "minecraft:white_dye_from_lily_of_the_valley"
+               "value" : "minecraft:stonecutter_mossy_stonebrick_stairs"
             },
             {
                "value" : "minecraft:repeater"
@@ -22347,7 +22902,16 @@
                "value" : "minecraft:purple_candle"
             },
             {
+               "value" : "minecraft:stonecutter_red_nether_brick_wall"
+            },
+            {
+               "value" : "minecraft:stripped_mangrove_wood"
+            },
+            {
                "value" : "minecraft:andesite_stairs"
+            },
+            {
+               "value" : "minecraft:stonecutter_brick_slab"
             },
             {
                "value" : "minecraft:cherry_door"
@@ -22368,10 +22932,16 @@
                "value" : "minecraft:waxing_oxidized_cut_copper"
             },
             {
+               "value" : "minecraft:stonecutter_oxidized_copper_to_cut_copper_stairs"
+            },
+            {
                "value" : "minecraft:scaffolding"
             },
             {
                "value" : "minecraft:smithing_table"
+            },
+            {
+               "value" : "minecraft:stonecutter_andesite_slab"
             },
             {
                "value" : "minecraft:emerald"
@@ -22398,10 +22968,22 @@
                "value" : "minecraft:redstone_lamp"
             },
             {
+               "value" : "minecraft:cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting"
+            },
+            {
                "value" : "minecraft:pink_dye_from_pink_petals"
             },
             {
+               "value" : "minecraft:deepslate_tile_slab_from_polished_deepslate_stonecutting"
+            },
+            {
                "value" : "minecraft:dripstone_block"
+            },
+            {
+               "value" : "minecraft:stonecutter_polished_from_blackstone"
+            },
+            {
+               "value" : "minecraft:stonecutter_mossy_stonebrick_slab"
             },
             {
                "value" : "minecraft:fishing_rod"
@@ -22411,6 +22993,9 @@
             },
             {
                "value" : "minecraft:sign_acacia"
+            },
+            {
+               "value" : "minecraft:stonecutter_blackstone_stairs_from_blackstone"
             },
             {
                "value" : "minecraft:wheat"
@@ -22449,6 +23034,9 @@
                "value" : "minecraft:shears"
             },
             {
+               "value" : "minecraft:polished_deepslate_stairs_from_cobbled_deepslate_stonecutting"
+            },
+            {
                "value" : "minecraft:jungle_fence"
             },
             {
@@ -22459,6 +23047,9 @@
             },
             {
                "value" : "minecraft:light_gray__carpet_from_white"
+            },
+            {
+               "value" : "minecraft:stonecutter_endbrick_slab"
             },
             {
                "value" : "minecraft:jungle_hanging_sign"
@@ -22482,6 +23073,15 @@
                "value" : "minecraft:ingots_from_waxed_copper"
             },
             {
+               "value" : "minecraft:stonecutter_waxed_weathered_copper_to_cut_copper_slab"
+            },
+            {
+               "value" : "minecraft:stonecutter_purpur_lines"
+            },
+            {
+               "value" : "minecraft:stonecutter_mossy_stonebrick_wall"
+            },
+            {
                "value" : "minecraft:bamboo_mosaic_slab"
             },
             {
@@ -22494,7 +23094,13 @@
                "value" : "minecraft:stripped_warped_hyphae"
             },
             {
+               "value" : "minecraft:stonecutter_prismarine_wall"
+            },
+            {
                "value" : "minecraft:deepslate_brick_wall"
+            },
+            {
+               "value" : "minecraft:stonecutter_smooth_quartz_slab"
             },
             {
                "value" : "minecraft:deepslate_tile_slab"
@@ -22521,6 +23127,9 @@
                "value" : "minecraft:dark_oak_door"
             },
             {
+               "value" : "minecraft:stonecutter_stonebrick_slab"
+            },
+            {
                "value" : "minecraft:golden_chestplate"
             },
             {
@@ -22531,6 +23140,9 @@
             },
             {
                "value" : "minecraft:warped_fence_gate"
+            },
+            {
+               "value" : "minecraft:deepslate_brick_wall_from_deepslate_bricks_stonecutting"
             },
             {
                "value" : "minecraft:heavy_weighted_pressure_plate"
@@ -22590,6 +23202,9 @@
                "value" : "minecraft:waxing_oxidized_copper"
             },
             {
+               "value" : "minecraft:stonecutter_diorite_wall"
+            },
+            {
                "value" : "minecraft:banner_pattern_thing"
             },
             {
@@ -22605,7 +23220,16 @@
                "value" : "minecraft:DaylightDetector_recipeId"
             },
             {
+               "value" : "minecraft:stonecutter_prismarine_brick_stairs"
+            },
+            {
+               "value" : "minecraft:stonecutter_polished_stairs_from_blackstone"
+            },
+            {
                "value" : "minecraft:blue_ice"
+            },
+            {
+               "value" : "minecraft:stonecutter_waxed_oxidized_copper_to_cut_copper_stairs"
             },
             {
                "value" : "minecraft:jungle_planks_from_stripped"
@@ -22626,6 +23250,9 @@
                "value" : "minecraft:golden_pickaxe"
             },
             {
+               "value" : "minecraft:stonecutter_endbrick_stairs2"
+            },
+            {
                "value" : "minecraft:waxing_exposed_cut_copper"
             },
             {
@@ -22644,10 +23271,16 @@
                "value" : "minecraft:shaper_armor_trim_smithing_template_duplicate"
             },
             {
+               "value" : "minecraft:stonecutter_oxidized_cut_copper_to_cut_copper_slab"
+            },
+            {
                "value" : "minecraft:moss_carpet"
             },
             {
                "value" : "minecraft:stone_pressure_plate"
+            },
+            {
+               "value" : "minecraft:stonecutter_copper_block_to_cut_copper"
             },
             {
                "value" : "minecraft:recovery_compass"
@@ -22665,6 +23298,9 @@
                "value" : "minecraft:bamboo_button"
             },
             {
+               "value" : "minecraft:stonecutter_weathered_copper_to_cut_copper"
+            },
+            {
                "value" : "minecraft:blue_stained_hardened_clay_from_lapis_lazuli"
             },
             {
@@ -22672,6 +23308,12 @@
             },
             {
                "value" : "minecraft:magenta_carpet"
+            },
+            {
+               "value" : "minecraft:stonecutter_quartz_stairs"
+            },
+            {
+               "value" : "minecraft:stonecutter_waxed_exposed_cut_copper_to_cut_copper_slab"
             },
             {
                "value" : "minecraft:composter"
@@ -22698,10 +23340,16 @@
                "value" : "minecraft:mossy_stonebrick_from_moss"
             },
             {
+               "value" : "minecraft:stonecutter_polished_andesite"
+            },
+            {
                "value" : "minecraft:crafting_table_cut_copper_slab"
             },
             {
                "value" : "minecraft:stick"
+            },
+            {
+               "value" : "minecraft:stonecutter_waxed_copper_to_cut_copper_slab"
             },
             {
                "value" : "minecraft:birch_fence_gate"
@@ -22719,6 +23367,9 @@
                "value" : "minecraft:deepslate_brick_stairs"
             },
             {
+               "value" : "minecraft:stonecutter_oxidized_copper_to_cut_copper_slab"
+            },
+            {
                "value" : "minecraft:white_candle"
             },
             {
@@ -22734,10 +23385,19 @@
                "value" : "minecraft:crimson_planks_from_crimson_hyphae"
             },
             {
+               "value" : "minecraft:stonecutter_smooth_quartz_stairs"
+            },
+            {
+               "value" : "minecraft:deepslate_tile_wall_from_deepslate_bricks_stonecutting"
+            },
+            {
                "value" : "minecraft:orange_concrete_powder"
             },
             {
                "value" : "minecraft:cherry_planks_from_wood"
+            },
+            {
+               "value" : "minecraft:stonecutter_red_sandstone_cut"
             },
             {
                "value" : "minecraft:polished_blackstone_brick_slab"
@@ -22750,6 +23410,18 @@
             },
             {
                "value" : "minecraft:crafting_table_waxed_oxidized_cut_copper_slab"
+            },
+            {
+               "value" : "minecraft:cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting"
+            },
+            {
+               "value" : "minecraft:stonecutter_polished_basalt_from_basalt"
+            },
+            {
+               "value" : "minecraft:deepslate_tile_stairs_from_deepslate_bricks_stonecutting"
+            },
+            {
+               "value" : "minecraft:polished_deepslate_slab_from_cobbled_deepslate_stonecut"
             },
             {
                "value" : "minecraft:crafting_table_waxed_cut_copper_slab"
@@ -22770,6 +23442,9 @@
                "value" : "minecraft:purpur_stairs"
             },
             {
+               "value" : "minecraft:stonecutter_polished_andesite_stairs"
+            },
+            {
                "value" : "minecraft:cookie"
             },
             {
@@ -22780,6 +23455,9 @@
             },
             {
                "value" : "minecraft:mud_bricks"
+            },
+            {
+               "value" : "minecraft:stonecutter_copper_block_to_cut_copper_slab"
             },
             {
                "value" : "minecraft:FireCharge_coal_sulphur_recipeId"
@@ -22797,6 +23475,15 @@
                "value" : "minecraft:crossbow"
             },
             {
+               "value" : "minecraft:stonecutter_endbrick_slab2"
+            },
+            {
+               "value" : "minecraft:stonecutter_smooth_red_sandstone_stairs"
+            },
+            {
+               "value" : "minecraft:deepslate_tile_stairs_from_polished_deepslate_stonecutting"
+            },
+            {
                "value" : "minecraft:WorkBench_recipeId"
             },
             {
@@ -22812,7 +23499,13 @@
                "value" : "minecraft:smoker"
             },
             {
+               "value" : "minecraft:stonecutter_brick_stairs"
+            },
+            {
                "value" : "minecraft:bamboo_planks"
+            },
+            {
+               "value" : "minecraft:stonecutter_polished_brick_slab_from_blackstone"
             },
             {
                "value" : "minecraft:polished_blackstone"
@@ -22833,6 +23526,9 @@
                "value" : "minecraft:orange_candle"
             },
             {
+               "value" : "minecraft:cartography_table_map"
+            },
+            {
                "value" : "minecraft:crafting_table_waxed_exposed_cut_copper"
             },
             {
@@ -22846,6 +23542,9 @@
             },
             {
                "value" : "minecraft:waxing_exposed_cut_copper_slab"
+            },
+            {
+               "value" : "minecraft:stonecutter_stonebrick_stairs"
             },
             {
                "value" : "minecraft:green_stained_hardened_clay"
@@ -22863,7 +23562,13 @@
                "value" : "minecraft:cyan_dye_from_pitcher_plant"
             },
             {
+               "value" : "minecraft:stonecutter_diorite_slab"
+            },
+            {
                "value" : "minecraft:iron_chestplate"
+            },
+            {
+               "value" : "minecraft:stonecutter_mud_brick_stairs"
             },
             {
                "value" : "minecraft:warped_fungus_on_a_stick"
@@ -22875,7 +23580,16 @@
                "value" : "minecraft:spruce_hanging_sign"
             },
             {
+               "value" : "minecraft:stonecutter_diorite_stairs"
+            },
+            {
                "value" : "minecraft:ender_eye"
+            },
+            {
+               "value" : "minecraft:stonecutter_dark_prismarine_slab"
+            },
+            {
+               "value" : "minecraft:stonecutter_quartz_bricks_from_quartz_block"
             },
             {
                "value" : "minecraft:furnace_from_cobbled_deepslate"
@@ -22944,10 +23658,22 @@
                "value" : "minecraft:golden_rail"
             },
             {
+               "value" : "minecraft:stonecutter_blackstone_wall_from_blackstone"
+            },
+            {
+               "value" : "minecraft:stonecutter_waxed_weathered_cut_copper_to_cut_copper_slab"
+            },
+            {
+               "value" : "minecraft:stonecutter_polished_diorite_stairs2"
+            },
+            {
                "value" : "minecraft:fermented_spider_eye"
             },
             {
                "value" : "minecraft:golden_axe"
+            },
+            {
+               "value" : "minecraft:stonecutter_purpur_stairs"
             },
             {
                "value" : "minecraft:oak_planks_from_stripped"
@@ -22956,7 +23682,16 @@
                "value" : "minecraft:crimson_trapdoor"
             },
             {
+               "value" : "minecraft:stonecutter_exposed_cut_copper_to_cut_copper_slab"
+            },
+            {
                "value" : "minecraft:stone_hoe"
+            },
+            {
+               "value" : "minecraft:stonecutter_smooth_red_sanddouble_stone_slab"
+            },
+            {
+               "value" : "minecraft:stonecutter_endbrick_wall"
             },
             {
                "value" : "minecraft:dark_prismarine"
@@ -22974,7 +23709,7 @@
                "value" : "minecraft:crafting_table_waxed_cut_copper_stairs"
             },
             {
-               "value" : "minecraft:magenta_dye_from_allium"
+               "value" : "minecraft:stonecutter_andesite_wall"
             },
             {
                "value" : "minecraft:cyan_carpet"
@@ -22986,6 +23721,9 @@
                "value" : "minecraft:stone_sword"
             },
             {
+               "value" : "minecraft:deepslate_bricks_from_polished_deepslate_stonecutting"
+            },
+            {
                "value" : "minecraft:mangrove_planks_from_stripped_wood"
             },
             {
@@ -22993,6 +23731,9 @@
             },
             {
                "value" : "minecraft:blackstone_slab"
+            },
+            {
+               "value" : "minecraft:deepslate_bricks_from_cobbled_deepslate_stonecutting"
             },
             {
                "value" : "minecraft:spruce_door"
@@ -23013,10 +23754,19 @@
                "value" : "minecraft:dark_oak_boat"
             },
             {
+               "value" : "minecraft:deepslate_tile_slab_from_deepslate_bricks_stonecutting"
+            },
+            {
+               "value" : "minecraft:deepslate_tile_slab_from_cobbled_deepslate_stonecutting"
+            },
+            {
                "value" : "minecraft:light_gray_dye_from_gray_bonemeal"
             },
             {
                "value" : "minecraft:compass"
+            },
+            {
+               "value" : "minecraft:stonecutter_red_sandstone_stairs"
             },
             {
                "value" : "minecraft:crimson_hyphae"
@@ -23025,13 +23775,28 @@
                "value" : "minecraft:crimson_stairs"
             },
             {
+               "value" : "minecraft:stonecutter_waxed_cut_copper_to_cut_copper_stairs"
+            },
+            {
                "value" : "minecraft:quartz_bricks"
+            },
+            {
+               "value" : "minecraft:stonecutter_weathered_cut_copper_to_cut_copper_slab"
             },
             {
                "value" : "minecraft:minecart"
             },
             {
+               "value" : "minecraft:stonecutter_brick_wall"
+            },
+            {
+               "value" : "minecraft:stonecutter_exposed_copper_to_exposed_cut_copper_slab"
+            },
+            {
                "value" : "minecraft:purple_dye"
+            },
+            {
+               "value" : "minecraft:stonecutter_polished_andesite_stairs2"
             },
             {
                "value" : "minecraft:diorite_stairs"
@@ -23067,13 +23832,25 @@
                "value" : "minecraft:spruce_chest_boat"
             },
             {
+               "value" : "minecraft:stonecutter_wall_from_polished_blackstone_bricks"
+            },
+            {
                "value" : "minecraft:oak_planks"
+            },
+            {
+               "value" : "minecraft:stonecutter_endbrick_wall2"
+            },
+            {
+               "value" : "minecraft:stonecutter_waxed_copper_to_exposed_cut_copper_slab"
             },
             {
                "value" : "minecraft:blue_candle"
             },
             {
                "value" : "minecraft:banner_pattern_creeper"
+            },
+            {
+               "value" : "minecraft:stonecutter_exposed_copper_to_cut_copper"
             },
             {
                "value" : "minecraft:purple_banner"
@@ -23092,6 +23869,9 @@
             },
             {
                "value" : "minecraft:birch_fence"
+            },
+            {
+               "value" : "minecraft:stonecutter_stone_stairs"
             },
             {
                "value" : "minecraft:crimson_sign"
@@ -23121,6 +23901,12 @@
                "value" : "minecraft:waxing_exposed_cut_copper_stairs"
             },
             {
+               "value" : "minecraft:stonecutter_polished_granite_slab"
+            },
+            {
+               "value" : "minecraft:deepslate_tiles_from_cobbled_deepslate_stonecutting"
+            },
+            {
                "value" : "minecraft:coal_block"
             },
             {
@@ -23139,16 +23925,22 @@
                "value" : "minecraft:detector_rail"
             },
             {
+               "value" : "minecraft:stonecutter_purpur_slab"
+            },
+            {
                "value" : "minecraft:spruce_fence"
             },
             {
-               "value" : "minecraft:light_gray_dye_from_oxeye_daisy"
+               "value" : "minecraft:stonecutter_polished_granite_stairs"
             },
             {
                "value" : "minecraft:diamond_helmet"
             },
             {
                "value" : "minecraft:crafting_table_exposed_cut_copper"
+            },
+            {
+               "value" : "minecraft:stonecutter_stonebrick"
             },
             {
                "value" : "minecraft:mossy_stonebrick"
@@ -23175,7 +23967,16 @@
                "value" : "minecraft:raiser_armor_trim_smithing_template_duplicate"
             },
             {
+               "value" : "minecraft:stonecutter_granite_wall"
+            },
+            {
+               "value" : "minecraft:deepslate_tiles_from_deepslate_bricks_stonecutting"
+            },
+            {
                "value" : "minecraft:lime__carpet_from_white"
+            },
+            {
+               "value" : "minecraft:polished_deepslate_slab_from_polished_deepslate_stonecutting"
             },
             {
                "value" : "minecraft:end_rod"
@@ -23196,10 +23997,10 @@
                "value" : "minecraft:polished_blackstone_button"
             },
             {
-               "value" : "minecraft:boat"
+               "value" : "minecraft:deepslate_brick_stairs_from_deepslate_bricks_stonecutting"
             },
             {
-               "value" : "minecraft:light_gray_dye_from_azure_bluet"
+               "value" : "minecraft:boat"
             },
             {
                "value" : "minecraft:waxing_cut_copper_stairs"
@@ -23215,6 +24016,9 @@
             },
             {
                "value" : "minecraft:birch_planks"
+            },
+            {
+               "value" : "minecraft:stonecutter_blackstone_slab_from_blackstone"
             },
             {
                "value" : "minecraft:bread"
@@ -23244,6 +24048,9 @@
                "value" : "minecraft:green_carpet"
             },
             {
+               "value" : "minecraft:stonecutter_waxed_weathered_copper_to_cut_copper"
+            },
+            {
                "value" : "minecraft:cherry_sign"
             },
             {
@@ -23259,16 +24066,28 @@
                "value" : "minecraft:polished_blackstone_pressure_plate"
             },
             {
-               "value" : "minecraft:red_dye_from_poppy"
-            },
-            {
                "value" : "minecraft:dark_oak_hanging_sign"
             },
             {
                "value" : "minecraft:light_blue_concrete_powder"
             },
             {
+               "value" : "minecraft:stonecutter_cobblestone_wall"
+            },
+            {
                "value" : "minecraft:crimson_planks"
+            },
+            {
+               "value" : "minecraft:deepslate_brick_slab_from_polished_deepslate_stonecutting"
+            },
+            {
+               "value" : "minecraft:stonecutter_mossy_cobblestone_wall"
+            },
+            {
+               "value" : "stonecutter_stairs_from_polished_blackstone_bricks"
+            },
+            {
+               "value" : "minecraft:stonecutter_smooth_sandstone_stairs"
             },
             {
                "value" : "minecraft:comparator"
@@ -23289,10 +24108,28 @@
                "value" : "minecraft:warped_stairs"
             },
             {
+               "value" : "minecraft:stonecutter_sanddouble_stone_slab"
+            },
+            {
+               "value" : "minecraft:deepslate_brick_slab_from_deepslate_bricks_stonecutting"
+            },
+            {
+               "value" : "minecraft:polished_deepslate_wall_from_cobbled_deepslate_stonecut"
+            },
+            {
+               "value" : "minecraft:deepslate_brick_stairs_from_polished_deepslate_stonecut"
+            },
+            {
                "value" : "minecraft:end_bricks"
             },
             {
                "value" : "minecraft:turtle_helmet"
+            },
+            {
+               "value" : "minecraft:stonecutter_exposed_cut_copper_to_cut_copper_stairs"
+            },
+            {
+               "value" : "minecraft:stonecutter_waxed_oxidized_copper_to_cut_copper"
             },
             {
                "value" : "minecraft:black_carpet_from_white"
@@ -23343,10 +24180,10 @@
                "value" : "minecraft:diamond_leggings"
             },
             {
-               "value" : "minecraft:banner_pattern_flower"
+               "value" : "minecraft:red_sandstone_wall"
             },
             {
-               "value" : "minecraft:red_sandstone_wall"
+               "value" : "minecraft:stonecutter_waxed_copper_to_cut_copper_stairs"
             },
             {
                "value" : "minecraft:cyan_concrete_powder"
@@ -23359,6 +24196,12 @@
             },
             {
                "value" : "minecraft:stone_pickaxe"
+            },
+            {
+               "value" : "minecraft:stonecutter_waxed_copper_to_cut_copper"
+            },
+            {
+               "value" : "minecraft:stonecutter_sandstone_wall"
             },
             {
                "value" : "minecraft:leather"
@@ -23379,13 +24222,22 @@
                "value" : "minecraft:gray_concrete_powder"
             },
             {
+               "value" : "minecraft:polished_deepslate_wall_from_polished_deepslate_stonecut"
+            },
+            {
                "value" : "minecraft:yellow_stained_hardened_clay"
             },
             {
                "value" : "minecraft:light_gray_concrete_powder"
             },
             {
+               "value" : "minecraft:stonecutter_bricks_from_polished_blackstone"
+            },
+            {
                "value" : "minecraft:wooden_sword"
+            },
+            {
+               "value" : "minecraft:stonecutter_weathered_cut_copper_to_cut_copper_stairs"
             },
             {
                "value" : "minecraft:cherry_chest_boat"
@@ -23397,19 +24249,25 @@
                "value" : "minecraft:crafting_table_cut_copper_stairs"
             },
             {
-               "value" : "minecraft:light_gray_dye_from_white_tulip"
-            },
-            {
                "value" : "minecraft:redstone_block"
             },
             {
                "value" : "minecraft:melon_block"
             },
             {
+               "value" : "minecraft:stonecutter_double_stone_slab"
+            },
+            {
+               "value" : "minecraft:stonecutter_polished_diorite_stairs"
+            },
+            {
                "value" : "minecraft:soul_lantern"
             },
             {
                "value" : "minecraft:flint_and_steel"
+            },
+            {
+               "value" : "minecraft:stonecutter_polished_granite_stairs2"
             },
             {
                "value" : "minecraft:sign_jungle"
@@ -23424,6 +24282,9 @@
                "value" : "minecraft:blue_banner"
             },
             {
+               "value" : "minecraft:stonecutter_weathered_copper_to_cut_copper_slab"
+            },
+            {
                "value" : "minecraft:warped_sign"
             },
             {
@@ -23436,6 +24297,9 @@
                "value" : "minecraft:waxing_weathered_cut_copper_slab"
             },
             {
+               "value" : "minecraft:deepslate_brick_stairs_from_cobbled_deepslate_stonecutting"
+            },
+            {
                "value" : "minecraft:crafting_table_waxed_cut_copper"
             },
             {
@@ -23445,19 +24309,28 @@
                "value" : "minecraft:golden_apple"
             },
             {
+               "value" : "minecraft:stonecutter_quartz_slab"
+            },
+            {
                "value" : "minecraft:crimson_pressure_plate"
+            },
+            {
+               "value" : "minecraft:stonecutter_waxed_cut_copper_to_cut_copper_slab"
             },
             {
                "value" : "minecraft:cauldron"
             },
             {
+               "value" : "minecraft:stonecutter_waxed_oxidized_cut_copper_to_cut_copper_slab"
+            },
+            {
                "value" : "minecraft:blue_dye_from_lapis_lazuli"
             },
             {
-               "value" : "minecraft:white_dye_from_bone_meal"
+               "value" : "minecraft:stonecutter_waxed_exposed_copper_to_cut_copper_stairs"
             },
             {
-               "value" : "minecraft:pink_dye_from_pink_tulip"
+               "value" : "minecraft:white_dye_from_bone_meal"
             },
             {
                "value" : "minecraft:Chest_recipeId"
@@ -23467,6 +24340,9 @@
             },
             {
                "value" : "minecraft:leather_boots"
+            },
+            {
+               "value" : "minecraft:cartography_table_locator_map"
             },
             {
                "value" : "minecraft:bamboo_chest_raft"
@@ -23505,7 +24381,13 @@
                "value" : "minecraft:beetroot_soup"
             },
             {
+               "value" : "minecraft:deepslate_tile_wall_from_cobbled_deepslate_stonecutting"
+            },
+            {
                "value" : "minecraft:slime"
+            },
+            {
+               "value" : "minecraft:stonecutter_waxed_weathered_copper_to_cut_copper_stairs"
             },
             {
                "value" : "minecraft:iron_door"
@@ -23529,10 +24411,22 @@
                "value" : "minecraft:mangrove_wood_stripped"
             },
             {
+               "value" : "minecraft:stonecutter_slab_from_polished_blackstone_bricks"
+            },
+            {
+               "value" : "minecraft:stonecutter_mud_brick_wall"
+            },
+            {
                "value" : "minecraft:warped_hyphae"
             },
             {
+               "value" : "minecraft:stonecutter_red_sandstone_heiroglyphs"
+            },
+            {
                "value" : "minecraft:bamboo_sign"
+            },
+            {
+               "value" : "minecraft:stonecutter_polished_brick_stairs_from_blackstone"
             },
             {
                "value" : "minecraft:dark_oak_fence_gate"
@@ -23548,6 +24442,9 @@
             },
             {
                "value" : "minecraft:crimson_slab"
+            },
+            {
+               "value" : "minecraft:stonecutter_red_sandstone_wall"
             },
             {
                "value" : "minecraft:polished_blackstone_stairs"
@@ -23571,10 +24468,16 @@
                "value" : "minecraft:dark_oak_fence"
             },
             {
+               "value" : "minecraft:stonecutter_polished_diorite_slab2"
+            },
+            {
                "value" : "minecraft:lantern"
             },
             {
                "value" : "minecraft:carrot_on_a_stick"
+            },
+            {
+               "value" : "minecraft:stonecutter_copper_block_to_cut_copper_stairs"
             },
             {
                "value" : "minecraft:record_5"
@@ -23583,19 +24486,28 @@
                "value" : "minecraft:jungle_planks"
             },
             {
+               "value" : "minecraft:stonecutter_waxed_oxidized_copper_to_cut_copper_slab"
+            },
+            {
                "value" : "minecraft:raw_iron"
             },
             {
                "value" : "minecraft:andesite_wall"
             },
             {
-               "value" : "minecraft:red_dye_from_tulip"
+               "value" : "minecraft:stonecutter_polished_bricks_from_blackstone"
             },
             {
                "value" : "minecraft:mossy_stone_brick_wall"
             },
             {
+               "value" : "minecraft:polished_deepslate_stairs_from_polished_deepslate_stonecutting"
+            },
+            {
                "value" : "minecraft:red_sandstone_stairs"
+            },
+            {
+               "value" : "minecraft:stonecutter_cut_copper_to_cut_copper_slab"
             },
             {
                "value" : "minecraft:white_carpet"
@@ -23608,6 +24520,9 @@
             },
             {
                "value" : "minecraft:pink_dye"
+            },
+            {
+               "value" : "minecraft:deepslate_brick_wall_from_cobbled_deepslate_stonecutting"
             },
             {
                "value" : "minecraft:stone_button"
@@ -23623,6 +24538,9 @@
             },
             {
                "value" : "minecraft:gray_banner"
+            },
+            {
+               "value" : "minecraft:stonecutter_mud_brick_slab"
             },
             {
                "value" : "minecraft:polished_deepslate_stairs"
@@ -23649,7 +24567,10 @@
                "value" : "minecraft:mud_brick_slab"
             },
             {
-               "value" : "minecraft:orange_dye_from_orange_tulip"
+               "value" : "minecraft:deepslate_tile_wall_from_deepslate_tiles_stonecutting"
+            },
+            {
+               "value" : "minecraft:deepslate_tile_slab_from_deepslate_tiles_stonecutting"
             },
             {
                "value" : "minecraft:emerald_block"
@@ -23694,16 +24615,25 @@
                "value" : "minecraft:mud_brick_wall"
             },
             {
+               "value" : "minecraft:deepslate_brick_slab_from_cobbled_deepslate_stonecutting"
+            },
+            {
                "value" : "minecraft:cyan_banner"
             },
             {
                "value" : "minecraft:blue_concrete_powder"
             },
             {
+               "value" : "minecraft:stonecutter_waxed_exposed_copper_to_cut_copper"
+            },
+            {
                "value" : "minecraft:bone_meal_from_block"
             },
             {
                "value" : "minecraft:iron_helmet"
+            },
+            {
+               "value" : "minecraft:stonecutter_brick_wall_from_polished_blackstone"
             },
             {
                "value" : "minecraft:acacia_chest_boat"
@@ -23730,7 +24660,13 @@
                "value" : "minecraft:golden_sword"
             },
             {
+               "value" : "minecraft:stonecutter_polished_andesite_slab"
+            },
+            {
                "value" : "minecraft:crafting_table_cut_copper"
+            },
+            {
+               "value" : "minecraft:stonecutter_granite_stairs"
             },
             {
                "value" : "minecraft:spire_armor_trim_smithing_template_duplicate"
@@ -23757,10 +24693,19 @@
                "value" : "minecraft:red_candle"
             },
             {
+               "value" : "minecraft:stonecutter_polished_granite_slab2"
+            },
+            {
+               "value" : "minecraft:stonecutter_prismarine_slab"
+            },
+            {
                "value" : "minecraft:sign_darkoak"
             },
             {
                "value" : "minecraft:snout_armor_trim_smithing_template_duplicate"
+            },
+            {
+               "value" : "minecraft:stonecutter_mossy_cobbledouble_stone_slab"
             },
             {
                "value" : "minecraft:cherry_button"
@@ -23775,6 +24720,9 @@
                "value" : "minecraft:crimson_planks_from_stripped_log"
             },
             {
+               "value" : "minecraft:stonecutter_polished_andesite_slab2"
+            },
+            {
                "value" : "minecraft:acacia_planks"
             },
             {
@@ -23785,6 +24733,9 @@
             },
             {
                "value" : "minecraft:smooth_sandstone"
+            },
+            {
+               "value" : "minecraft:stonecutter_smooth_sanddouble_stone_slab"
             },
             {
                "value" : "wool_dye_wool_19_14"
@@ -35698,7 +36649,7 @@
          "requires_cheats" : true
       }
    ],
-   "minecraft_version" : "1.20.80-beta.22",
+   "minecraft_version" : "1.20.80-beta.23",
    "module_type" : "commands",
    "name" : "mojang-commands-internal"
 }
