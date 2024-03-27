@@ -991,7 +991,7 @@
          "version" : "1.11.0-internal"
       }
    ],
-   "minecraft_version" : "1.20.80-beta.23",
+   "minecraft_version" : "1.20.80-beta.24",
    "module_type" : "after_events_ordering",
    "name" : "engine-after_events_ordering"
 }
